@@ -56,6 +56,7 @@
 - [publishing](#publishing)
 - [pwa](#pwa)
 - [python](#python)
+- [raspberry-pi](#raspberry-pi)
 - [react](#react)
 - [security](#security)
 - [self-hosted](#self-hosted)
@@ -285,6 +286,7 @@
 
 ## others 
 
+- [libretime/icecast-docker](https://github.com/libretime/icecast-docker) - Icecast images based on Debian or Alpine, including Icecast beta versions.
 - [minbrowser/min](https://github.com/minbrowser/min) - A fast, minimal browser that protects your privacy
 - [cmars/onionpipe](https://github.com/cmars/onionpipe) - Onion addresses for anything.
 - [marin-m/SongRec](https://github.com/marin-m/SongRec) - An open-source Shazam client for Linux, written in Rust.
@@ -359,6 +361,10 @@
 - [openai/openai-python](https://github.com/openai/openai-python) - The official Python library for the OpenAI API
 - [SleepyLili/tlapbot](https://github.com/SleepyLili/tlapbot) - Owncast bot written in Python+Flask, providing channel points and channel point redeems for your owncast stream.
 - [streamlink/streamlink](https://github.com/streamlink/streamlink) - Streamlink is a CLI utility which pipes video streams from various services into a video player
+
+## raspberry-pi 
+
+- [hirve/old-radio-sound](https://github.com/hirve/old-radio-sound) - The server to emulate old warm AM radio sound on Raspberry Pi
 
 ## react 
 
