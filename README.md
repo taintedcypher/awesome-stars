@@ -33,6 +33,7 @@
 
 ## C 
 
+- [hirve/old-radio-sound](https://github.com/hirve/old-radio-sound) - The server to emulate old warm AM radio sound on Raspberry Pi
 - [jprjr/icecast-hls](https://github.com/jprjr/icecast-hls) - A tool to take Icecast streams and re-encode into HLS
 - [abrander/scannerjack](https://github.com/abrander/scannerjack) - GTK+ interface for classic Uniden scanners
 - [openssl/openssl](https://github.com/openssl/openssl) - TLS/SSL and crypto library
@@ -60,6 +61,7 @@
 
 ## Dockerfile 
 
+- [libretime/icecast-docker](https://github.com/libretime/icecast-docker) - Icecast images based on Debian or Alpine, including Icecast beta versions.
 - [PrestaShop/docker](https://github.com/PrestaShop/docker) - 🐳
 
 ## Go 
