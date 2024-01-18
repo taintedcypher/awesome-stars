@@ -16,6 +16,7 @@
 - [chatgpt-api](#chatgpt-api)
 - [chrome-extension](#chrome-extension)
 - [cli](#cli)
+- [config](#config)
 - [css](#css)
 - [cybersecurity](#cybersecurity)
 - [deep-learning](#deep-learning)
@@ -36,6 +37,7 @@
 - [iot](#iot)
 - [java](#java)
 - [javascript](#javascript)
+- [kubernetes](#kubernetes)
 - [language](#language)
 - [linux](#linux)
 - [machine-learning](#machine-learning)
@@ -58,6 +60,8 @@
 - [python](#python)
 - [raspberry-pi](#raspberry-pi)
 - [react](#react)
+- [ruby](#ruby)
+- [rust](#rust)
 - [security](#security)
 - [self-hosted](#self-hosted)
 - [swift](#swift)
@@ -128,6 +132,10 @@
 
 - [streamlink/streamlink](https://github.com/streamlink/streamlink) - Streamlink is a CLI utility which pipes video streams from various services into a video player
 
+## config 
+
+- [envkey/envkey](https://github.com/envkey/envkey) - Simple, end-to-end encrypted configuration and secrets management
+
 ## css 
 
 - [Sinacs/Joplin.Plugin.ReMoods.Theme](https://github.com/Sinacs/Joplin.Plugin.ReMoods.Theme) - [NO LONGER MAINTAINED]
@@ -142,10 +150,13 @@
 
 ## devops 
 
+- [envkey/envkey](https://github.com/envkey/envkey) - Simple, end-to-end encrypted configuration and secrets management
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 
 ## docker 
 
+- [envkey/envkey](https://github.com/envkey/envkey) - Simple, end-to-end encrypted configuration and secrets management
+- [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
 - [Ravinou/borgwarehouse](https://github.com/Ravinou/borgwarehouse) - A fast and modern WebUI for a BorgBackup's central repository server.
@@ -190,6 +201,7 @@
 
 ## golang 
 
+- [envkey/envkey](https://github.com/envkey/envkey) - Simple, end-to-end encrypted configuration and secrets management
 - [strukturag/nextcloud-spreed-signaling](https://github.com/strukturag/nextcloud-spreed-signaling) - Standalone signaling server for Nextcloud Talk.
 - [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 
@@ -199,6 +211,7 @@
 
 ## hacktoberfest 
 
+- [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 - [timvisee/send](https://github.com/timvisee/send) - :mailbox_with_mail: Simple, private file sharing. Mirror of https://gitlab.com/timvisee/send
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
@@ -232,6 +245,10 @@
 - [hack-chat/main](https://github.com/hack-chat/main) - a minimal, distraction-free chat application
 - [decaporg/decap-cms](https://github.com/decaporg/decap-cms) - A Git-based CMS for Static Site Generators
 - [thsmi/sieve](https://github.com/thsmi/sieve) - Sieve Script Editor
+
+## kubernetes 
+
+- [envkey/envkey](https://github.com/envkey/envkey) - Simple, end-to-end encrypted configuration and secrets management
 
 ## language 
 
@@ -269,6 +286,7 @@
 
 ## nodejs 
 
+- [envkey/envkey](https://github.com/envkey/envkey) - Simple, end-to-end encrypted configuration and secrets management
 - [hack-chat/main](https://github.com/hack-chat/main) - a minimal, distraction-free chat application
 
 ## objective-c 
@@ -286,6 +304,7 @@
 
 ## others 
 
+- [optapy/optapy-quickstarts](https://github.com/optapy/optapy-quickstarts) - OptaPy quick starts for AI optimization: showcases many different use cases.
 - [libretime/icecast-docker](https://github.com/libretime/icecast-docker) - Icecast images based on Debian or Alpine, including Icecast beta versions.
 - [minbrowser/min](https://github.com/minbrowser/min) - A fast, minimal browser that protects your privacy
 - [cmars/onionpipe](https://github.com/cmars/onionpipe) - Onion addresses for anything.
@@ -357,6 +376,7 @@
 
 ## python 
 
+- [envkey/envkey](https://github.com/envkey/envkey) - Simple, end-to-end encrypted configuration and secrets management
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [openai/openai-python](https://github.com/openai/openai-python) - The official Python library for the OpenAI API
 - [SleepyLili/tlapbot](https://github.com/SleepyLili/tlapbot) - Owncast bot written in Python+Flask, providing channel points and channel point redeems for your owncast stream.
@@ -371,8 +391,17 @@
 - [decaporg/decap-cms](https://github.com/decaporg/decap-cms) - A Git-based CMS for Static Site Generators
 - [EyuCoder/chatgpt-pro](https://github.com/EyuCoder/chatgpt-pro) - ChatGPT-Pro is an advanced application that combines the power of ChatGPT and DALL.E.
 
+## ruby 
+
+- [envkey/envkey](https://github.com/envkey/envkey) - Simple, end-to-end encrypted configuration and secrets management
+
+## rust 
+
+- [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
+
 ## security 
 
+- [envkey/envkey](https://github.com/envkey/envkey) - Simple, end-to-end encrypted configuration and secrets management
 - [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
 - [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) - Multi-platform transparent client-side encryption of your files in the cloud
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2023
