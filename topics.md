@@ -58,6 +58,7 @@
 - [publishing](#publishing)
 - [pwa](#pwa)
 - [python](#python)
+- [pytorch](#pytorch)
 - [raspberry-pi](#raspberry-pi)
 - [react](#react)
 - [ruby](#ruby)
@@ -382,6 +383,10 @@
 - [openai/openai-python](https://github.com/openai/openai-python) - The official Python library for the OpenAI API
 - [SleepyLili/tlapbot](https://github.com/SleepyLili/tlapbot) - Owncast bot written in Python+Flask, providing channel points and channel point redeems for your owncast stream.
 - [streamlink/streamlink](https://github.com/streamlink/streamlink) - Streamlink is a CLI utility which pipes video streams from various services into a video player
+
+## pytorch 
+
+- [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular stable diffusion GUI, api and backend with a graph/nodes interface.
 
 ## raspberry-pi 
 
