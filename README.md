@@ -33,6 +33,7 @@
 
 ## C 
 
+- [bootchk/resynthesizer](https://github.com/bootchk/resynthesizer) - Suite of gimp plugins for texture synthesis
 - [hirve/old-radio-sound](https://github.com/hirve/old-radio-sound) - The server to emulate old warm AM radio sound on Raspberry Pi
 - [jprjr/icecast-hls](https://github.com/jprjr/icecast-hls) - A tool to take Icecast streams and re-encode into HLS
 - [abrander/scannerjack](https://github.com/abrander/scannerjack) - GTK+ interface for classic Uniden scanners
