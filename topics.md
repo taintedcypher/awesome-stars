@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [ai](#ai)
 - [atom](#atom)
 - [automation](#automation)
 - [awesome](#awesome)
@@ -73,9 +74,14 @@
 - [vim](#vim)
 - [vue](#vue)
 - [vuejs](#vuejs)
+- [web](#web)
 - [webapp](#webapp)
 - [windows](#windows)
 - [xml](#xml)
+
+## ai 
+
+- [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 
 ## atom 
 
@@ -147,6 +153,7 @@
 
 ## deep-learning 
 
+- [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [tatsu-lab/stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca) - Code and documentation to train Stanford's Alpaca models, and generate the data.
 
 ## devops 
@@ -387,6 +394,7 @@
 
 ## pytorch 
 
+- [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular stable diffusion GUI, api and backend with a graph/nodes interface.
 
 ## raspberry-pi 
@@ -454,6 +462,10 @@
 ## vuejs 
 
 - [GetPublii/Publii](https://github.com/GetPublii/Publii) - The most intuitive Static Site CMS designed for SEO-optimized and privacy-focused websites.
+
+## web 
+
+- [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 
 ## webapp 
 
