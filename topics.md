@@ -314,6 +314,7 @@
 
 ## others 
 
+- [phandasm/waveform](https://github.com/phandasm/waveform) - Audio spectral analysis plugin for OBS
 - [bootchk/resynthesizer](https://github.com/bootchk/resynthesizer) - Suite of gimp plugins for texture synthesis
 - [optapy/optapy-quickstarts](https://github.com/optapy/optapy-quickstarts) - OptaPy quick starts for AI optimization: showcases many different use cases.
 - [libretime/icecast-docker](https://github.com/libretime/icecast-docker) - Icecast images based on Debian or Alpine, including Icecast beta versions.
