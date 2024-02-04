@@ -78,6 +78,7 @@
 - [web](#web)
 - [webapp](#webapp)
 - [windows](#windows)
+- [wordpress](#wordpress)
 - [xml](#xml)
 
 ## ai 
@@ -481,6 +482,10 @@
 
 - [GetPublii/Publii](https://github.com/GetPublii/Publii) - The most intuitive Static Site CMS designed for SEO-optimized and privacy-focused websites.
 - [thsmi/sieve](https://github.com/thsmi/sieve) - Sieve Script Editor
+
+## wordpress 
+
+- [KevinBatdorf/code-block-pro](https://github.com/KevinBatdorf/code-block-pro) - A Gutenberg code block with syntax highlighting powered by VS Code
 
 ## xml 
 
