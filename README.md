@@ -188,6 +188,7 @@
 
 ## TypeScript 
 
+- [KevinBatdorf/code-block-pro](https://github.com/KevinBatdorf/code-block-pro) - A Gutenberg code block with syntax highlighting powered by VS Code
 - [envkey/envkey](https://github.com/envkey/envkey) - Simple, end-to-end encrypted configuration and secrets management
 - [Sinacs/Joplin.Plugin.ReMoods.Theme](https://github.com/Sinacs/Joplin.Plugin.ReMoods.Theme) - [NO LONGER MAINTAINED]
 - [BishopFox/unredacter](https://github.com/BishopFox/unredacter) - Never ever ever use pixelation as a redaction technique
