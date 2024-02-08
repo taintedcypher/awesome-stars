@@ -33,6 +33,7 @@
 
 ## C 
 
+- [solusipse/fiche](https://github.com/solusipse/fiche) - Command line pastebin for sharing terminal output.
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [bootchk/resynthesizer](https://github.com/bootchk/resynthesizer) - Suite of gimp plugins for texture synthesis
 - [hirve/old-radio-sound](https://github.com/hirve/old-radio-sound) - The server to emulate old warm AM radio sound on Raspberry Pi
