@@ -32,6 +32,7 @@
 - [es6](#es6)
 - [firefox](#firefox)
 - [flask](#flask)
+- [game](#game)
 - [go](#go)
 - [golang](#golang)
 - [hacking](#hacking)
@@ -88,6 +89,7 @@
 
 ## ai 
 
+- [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 
 ## analytics 
@@ -199,6 +201,7 @@
 
 ## electron 
 
+- [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.
 - [GetPublii/Publii](https://github.com/GetPublii/Publii) - The most intuitive Static Site CMS designed for SEO-optimized and privacy-focused websites.
 - [thsmi/sieve](https://github.com/thsmi/sieve) - Sieve Script Editor
 
@@ -224,6 +227,10 @@
 ## flask 
 
 - [SleepyLili/tlapbot](https://github.com/SleepyLili/tlapbot) - Owncast bot written in Python+Flask, providing channel points and channel point redeems for your owncast stream.
+
+## game 
+
+- [CorsixTH/CorsixTH](https://github.com/CorsixTH/CorsixTH) - Open source clone of Theme Hospital
 
 ## go 
 
@@ -452,6 +459,7 @@
 
 ## rust 
 
+- [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 
 ## security 
@@ -495,6 +503,7 @@
 
 ## vim 
 
+- [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [atlas-engineer/nyxt](https://github.com/atlas-engineer/nyxt) - Nyxt - the hacker's browser.
 
 ## vue 
