@@ -177,7 +177,7 @@
 - [JKamsker/glados-tts](https://github.com/JKamsker/glados-tts) - A GLaDOS TTS, using Forward Tacotron and HiFiGAN.  Inference is fast and stable, even on the CPU.  A low quality vocoder model is included for mobile use.  Rudimentary TTS script included.  Works perf
 - [R2D2FISH/glados-tts](https://github.com/R2D2FISH/glados-tts) - A GLaDOS TTS, using Forward Tacotron and HiFiGAN.  Inference is fast and stable, even on the CPU.  A low quality vocoder model is included for mobile use.  Rudimentary TTS script included.  Works perf
 - [openai/openai-python](https://github.com/openai/openai-python) - The official Python library for the OpenAI API
-- [SleepyLili/tlapbot](https://github.com/SleepyLili/tlapbot) - Owncast bot written in Python+Flask, providing channel points and channel point redeems for your owncast stream.
+- [SleepyLili/tlapbot](https://github.com/SleepyLili/tlapbot) - Owncast bot written in Python+Flask, providing channel points and channel point redeems for your owncast stream. Reward your viewers for watching, and infuse your stream with fun interactions and chal
 - [streamlink/streamlink](https://github.com/streamlink/streamlink) - Streamlink is a CLI utility which pipes video streams from various services into a video player
 - [rafaelmardojai/blanket](https://github.com/rafaelmardojai/blanket) - Listen to different sounds
 
