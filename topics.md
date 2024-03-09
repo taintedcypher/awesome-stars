@@ -8,7 +8,6 @@
 - [ai](#ai)
 - [analytics](#analytics)
 - [android](#android)
-- [archlinux](#archlinux)
 - [atom](#atom)
 - [automation](#automation)
 - [awesome](#awesome)
@@ -101,10 +100,6 @@
 ## android 
 
 - [alexmercerind/audire](https://github.com/alexmercerind/audire) - Identify music playing around you.
-
-## archlinux 
-
-- [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
 
 ## atom 
 
@@ -437,7 +432,7 @@
 
 ## python 
 
-- [spotify/pedalboard](https://github.com/spotify/pedalboard) - 🎛 🔊 A Python library for working with audio.
+- [spotify/pedalboard](https://github.com/spotify/pedalboard) - 🎛 🔊 A Python library for audio.
 - [FujiwaraChoki/MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter) - Automate Creation of YouTube Shorts using MoviePy.
 - [envkey/envkey](https://github.com/envkey/envkey) - Simple, end-to-end encrypted configuration and secrets management
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
@@ -498,7 +493,7 @@
 
 ## tensorflow 
 
-- [spotify/pedalboard](https://github.com/spotify/pedalboard) - 🎛 🔊 A Python library for working with audio.
+- [spotify/pedalboard](https://github.com/spotify/pedalboard) - 🎛 🔊 A Python library for audio.
 
 ## terminal 
 
