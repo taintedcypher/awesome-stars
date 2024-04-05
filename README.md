@@ -195,6 +195,7 @@
 
 ## Shell 
 
+- [samhwang/lnxpcs](https://github.com/samhwang/lnxpcs) - Forked from lnxpcs on GitLab, the project is now removed from GitLab.
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
 - [YunoHost-Apps/owncast-emojiwall_ynh](https://github.com/YunoHost-Apps/owncast-emojiwall_ynh) - Owncast Emojiwall package for YunoHost
 - [tuxgasy/docker-dolibarr](https://github.com/tuxgasy/docker-dolibarr) - Docker image for Dolibarr with auto installer on first boot
