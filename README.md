@@ -10,6 +10,7 @@
 - [Common Lisp](#common-lisp)
 - [Crystal](#crystal)
 - [D](#d)
+- [Dart](#dart)
 - [Dockerfile](#dockerfile)
 - [Go](#go)
 - [HLSL](#hlsl)
@@ -66,6 +67,10 @@
 ## D 
 
 - [gnunn1/tilix](https://github.com/gnunn1/tilix) - A tiling terminal emulator for Linux using GTK+ 3
+
+## Dart 
+
+- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 
 ## Dockerfile 
 
@@ -207,6 +212,7 @@
 
 ## TypeScript 
 
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.
 - [KevinBatdorf/code-block-pro](https://github.com/KevinBatdorf/code-block-pro) - A Gutenberg code block with syntax highlighting powered by VS Code
 - [envkey/envkey](https://github.com/envkey/envkey) - Simple, end-to-end encrypted configuration and secrets management
