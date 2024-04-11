@@ -321,6 +321,7 @@
 
 ## linux 
 
+- [evilsocket/opensnitch](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux interactive application firewall inspired by Little Snitch.
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
 - [GetPublii/Publii](https://github.com/GetPublii/Publii) - The most intuitive Static Site CMS designed for SEO-optimized and privacy-focused websites.
 - [thsmi/sieve](https://github.com/thsmi/sieve) - Sieve Script Editor
@@ -507,6 +508,7 @@
 
 ## security 
 
+- [evilsocket/opensnitch](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux interactive application firewall inspired by Little Snitch.
 - [xi/xiMatrix](https://github.com/xi/xiMatrix) - filter net requests according to source, destination and type
 - [envkey/envkey](https://github.com/envkey/envkey) - Simple, end-to-end encrypted configuration and secrets management
 - [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
