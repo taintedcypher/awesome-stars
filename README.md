@@ -216,7 +216,7 @@
 ## TypeScript 
 
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
-- [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.
+- [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
 - [KevinBatdorf/code-block-pro](https://github.com/KevinBatdorf/code-block-pro) - A Gutenberg code block with syntax highlighting powered by VS Code
 - [envkey/envkey](https://github.com/envkey/envkey) - Simple, end-to-end encrypted configuration and secrets management
 - [Sinacs/Joplin.Plugin.ReMoods.Theme](https://github.com/Sinacs/Joplin.Plugin.ReMoods.Theme) - [NO LONGER MAINTAINED]
