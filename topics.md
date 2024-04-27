@@ -56,6 +56,7 @@
 - [mastodon](#mastodon)
 - [material-design](#material-design)
 - [monitoring](#monitoring)
+- [music](#music)
 - [mysql](#mysql)
 - [nodejs](#nodejs)
 - [objective-c](#objective-c)
@@ -322,6 +323,7 @@
 
 ## linux 
 
+- [vixalien/sticky](https://github.com/vixalien/sticky) - A simple sticky notes app for GNOME
 - [micheleg/dash-to-dock](https://github.com/micheleg/dash-to-dock) - A dock for the Gnome Shell. This extension   moves the dash out of the overview transforming it in a dock for an easier   launching of applications and a faster switching between windows and desktops.
 - [evilsocket/opensnitch](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux interactive application firewall inspired by Little Snitch.
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
@@ -361,6 +363,10 @@
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
+
+## music 
+
+- [vixalien/muzika](https://github.com/vixalien/muzika) - Elegant music streaming app
 
 ## mysql 
 
