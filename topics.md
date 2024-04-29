@@ -30,6 +30,7 @@
 - [electron](#electron)
 - [emacs](#emacs)
 - [emoji](#emoji)
+- [emulator](#emulator)
 - [es6](#es6)
 - [firefox](#firefox)
 - [flask](#flask)
@@ -227,6 +228,10 @@
 
 - [mathiasbynens/emoji-regex](https://github.com/mathiasbynens/emoji-regex) - A regular expression to match all Emoji-only symbols as per the Unicode Standard.
 - [hfg-gmuend/openmoji](https://github.com/hfg-gmuend/openmoji) - Open source emojis for designers, developers and everyone else!
+
+## emulator 
+
+- [LIJI32/SameBoy](https://github.com/LIJI32/SameBoy) - Game Boy and Game Boy Color emulator written in C
 
 ## es6 
 
