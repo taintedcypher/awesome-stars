@@ -49,6 +49,7 @@
 
 ## C++ 
 
+- [Jmgr/actiona](https://github.com/Jmgr/actiona) - Cross-platform automation tool
 - [spotify/pedalboard](https://github.com/spotify/pedalboard) - 🎛 🔊 A Python library for audio.
 - [rhasspy/piper](https://github.com/rhasspy/piper) - A fast, local neural text to speech system
 - [phandasm/waveform](https://github.com/phandasm/waveform) - Audio spectral analysis plugin for OBS
