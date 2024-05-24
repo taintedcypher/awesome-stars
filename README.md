@@ -12,6 +12,7 @@
 - [D](#d)
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
+- [Emacs Lisp](#emacs-lisp)
 - [Go](#go)
 - [HLSL](#hlsl)
 - [HTML](#html)
@@ -78,6 +79,10 @@
 
 - [libretime/icecast-docker](https://github.com/libretime/icecast-docker) - Icecast images based on Debian or Alpine, including Icecast beta versions.
 - [PrestaShop/docker](https://github.com/PrestaShop/docker) - 🐳
+
+## Emacs Lisp 
+
+- [jan-warchol/selenized](https://github.com/jan-warchol/selenized) - Solarized redesigned: fine-tuned color palette for programmers with focus on readability.
 
 ## Go 
 
@@ -222,6 +227,7 @@
 
 ## TypeScript 
 
+- [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 - [vixalien/muzika](https://github.com/vixalien/muzika) - Elegant music streaming app
 - [vixalien/sticky](https://github.com/vixalien/sticky) - A simple sticky notes app for GNOME
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
