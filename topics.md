@@ -405,6 +405,7 @@
 
 ## others 
 
+- [lanceewing/agi](https://github.com/lanceewing/agi) - Original source code of Sierra On-Line's AGI adventure game interpreter.
 - [exeldro/obs-shaderfilter](https://github.com/exeldro/obs-shaderfilter) - OBS Studio filter for applying an arbitrary shader to a source.
 - [jan-warchol/selenized](https://github.com/jan-warchol/selenized) - Solarized redesigned: fine-tuned color palette for programmers with focus on readability.
 - [lllyasviel/stable-diffusion-webui-forge](https://github.com/lllyasviel/stable-diffusion-webui-forge) - 
