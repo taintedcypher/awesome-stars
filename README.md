@@ -234,6 +234,7 @@
 
 ## TypeScript 
 
+- [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - The hackable notebook
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 - [vixalien/muzika](https://github.com/vixalien/muzika) - Elegant music streaming app
 - [vixalien/sticky](https://github.com/vixalien/sticky) - A simple sticky notes app for GNOME
