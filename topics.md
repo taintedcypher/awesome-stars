@@ -270,6 +270,7 @@
 
 ## go 
 
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server
 - [strukturag/nextcloud-spreed-signaling](https://github.com/strukturag/nextcloud-spreed-signaling) - Standalone signaling server for Nextcloud Talk.
 - [writefreely/writefreely](https://github.com/writefreely/writefreely) - A clean, Markdown-based publishing platform made for writers. Write together and build a community.
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
@@ -485,6 +486,7 @@
 
 ## php 
 
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server
 - [cypht-org/cypht](https://github.com/cypht-org/cypht) - Cypht: Lightweight Open Source webmail written in PHP and JavaScript
 - [DanWin/le-chat-php](https://github.com/DanWin/le-chat-php) - A PHP Chat based on LE CHAT
 - [PrestaShop/docker](https://github.com/PrestaShop/docker) - 🐳
