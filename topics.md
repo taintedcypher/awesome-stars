@@ -420,6 +420,7 @@
 
 ## others 
 
+- [annappropriate/rose-pine-tilix](https://github.com/annappropriate/rose-pine-tilix) - Soho vibes for Tilix
 - [porsager/flems](https://github.com/porsager/flems) - A single file web playground and sandbox
 - [lanceewing/agi](https://github.com/lanceewing/agi) - Original source code of Sierra On-Line's AGI adventure game interpreter.
 - [exeldro/obs-shaderfilter](https://github.com/exeldro/obs-shaderfilter) - OBS Studio filter for applying an arbitrary shader to a source.
