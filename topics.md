@@ -25,6 +25,7 @@
 - [cybersecurity](#cybersecurity)
 - [data-analysis](#data-analysis)
 - [deep-learning](#deep-learning)
+- [design](#design)
 - [devops](#devops)
 - [docker](#docker)
 - [electron](#electron)
@@ -43,6 +44,7 @@
 - [hacking](#hacking)
 - [hacktoberfest](#hacktoberfest)
 - [haskell](#haskell)
+- [html](#html)
 - [http](#http)
 - [ios](#ios)
 - [iot](#iot)
@@ -192,6 +194,7 @@
 
 ## css 
 
+- [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
 - [Sinacs/Joplin.Plugin.ReMoods.Theme](https://github.com/Sinacs/Joplin.Plugin.ReMoods.Theme) - [NO LONGER MAINTAINED]
 
 ## cybersecurity 
@@ -206,6 +209,10 @@
 
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [tatsu-lab/stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca) - Code and documentation to train Stanford's Alpaca models, and generate the data.
+
+## design 
+
+- [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
 
 ## devops 
 
@@ -311,6 +318,10 @@
 ## haskell 
 
 - [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
+
+## html 
+
+- [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
 
 ## http 
 
