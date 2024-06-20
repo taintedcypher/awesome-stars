@@ -337,7 +337,7 @@
 ## http 
 
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
-- [yunginnanet/HellPot](https://github.com/yunginnanet/HellPot) - HellPot is a portal to endless suffering meant to punish unruly HTTP bots.
+- [yunginnanet/HellPot](https://github.com/yunginnanet/HellPot) - HellPot is a cross-platform portal to endless suffering meant to punish unruly HTTP bots.
 
 ## ios 
 
@@ -677,7 +677,7 @@
 
 ## web 
 
-- [yunginnanet/HellPot](https://github.com/yunginnanet/HellPot) - HellPot is a portal to endless suffering meant to punish unruly HTTP bots.
+- [yunginnanet/HellPot](https://github.com/yunginnanet/HellPot) - HellPot is a cross-platform portal to endless suffering meant to punish unruly HTTP bots.
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 
 ## web-development 
