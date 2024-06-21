@@ -268,7 +268,7 @@
 
 ## firefox 
 
-- [Floorp-Projects/Floorp](https://github.com/Floorp-Projects/Floorp) - The most of source code of version 10 or later of Floorp Browser, the most Advanced and Fastest Firefox derivative 🦊
+- [Floorp-Projects/Floorp](https://github.com/Floorp-Projects/Floorp) - All of source code of version 10 or later of Floorp Browser, the most Advanced and Fastest Firefox derivative 🦊
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [filips123/PWAsForFirefox](https://github.com/filips123/PWAsForFirefox) - A tool to install, manage and use Progressive Web Apps (PWAs) in Mozilla Firefox
 
@@ -457,6 +457,7 @@
 
 ## others 
 
+- [Alpha-VLLM/Lumina-T2X](https://github.com/Alpha-VLLM/Lumina-T2X) - Lumina-T2X is a unified framework for Text to Any Modality Generation
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [travist/jsencrypt](https://github.com/travist/jsencrypt) - A zero-dependency Javascript library to perform OpenSSL RSA Encryption, Decryption, and Key Generation.
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
@@ -490,7 +491,7 @@
 - [GradienceTeam/Community](https://github.com/GradienceTeam/Community) - Share your Presets
 - [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
 - [ldeso/hugo-flex](https://github.com/ldeso/hugo-flex) - A lightweight Hugo theme leveraging CSS Flexbox.
-- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: run open-source LLMs anywhere
+- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Chat with Local LLMs on Any Device
 - [Alinto/sope](https://github.com/Alinto/sope) - SOPE is an extensive set of frameworks which form a complete Web application server environment. Besides the Apple WebObjects compatible appserver extended with Zope concepts, it contains a large set 
 - [JojoMee/ubicast-downloader](https://github.com/JojoMee/ubicast-downloader) - Browser addon that displays direct URLs to video and audio files you are watching via a UbiCast server
 - [alexnuttinck/lab-openproject-lemonldap](https://github.com/alexnuttinck/lab-openproject-lemonldap) - Lab to test Openproject with lemonLDAP using docker-compose
@@ -535,6 +536,7 @@
 
 ## postgresql 
 
+- [frectonz/sql-studio](https://github.com/frectonz/sql-studio) - SQL Database Explorer [SQLite, libSQL, PostgreSQL]
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 
 ## privacy 
@@ -597,7 +599,7 @@
 
 ## rust 
 
-- [frectonz/sqlite-studio](https://github.com/frectonz/sqlite-studio) - SQLite database explorer
+- [frectonz/sql-studio](https://github.com/frectonz/sql-studio) - SQL Database Explorer [SQLite, libSQL, PostgreSQL]
 - [redlib-org/redlib](https://github.com/redlib-org/redlib) - Private front-end for Reddit
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
@@ -625,7 +627,7 @@
 
 ## sqlite 
 
-- [frectonz/sqlite-studio](https://github.com/frectonz/sqlite-studio) - SQLite database explorer
+- [frectonz/sql-studio](https://github.com/frectonz/sql-studio) - SQL Database Explorer [SQLite, libSQL, PostgreSQL]
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 
 ## stable-diffusion 
