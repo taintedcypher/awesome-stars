@@ -381,6 +381,7 @@
 
 ## linux 
 
+- [leomaurodesenv/cemu-linux](https://github.com/leomaurodesenv/cemu-linux) - Play with Cemu on Linux (with high performance)
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The s
 - [Swordfish90/cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display...
 - [vixalien/sticky](https://github.com/vixalien/sticky) - A simple sticky notes app for GNOME
