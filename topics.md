@@ -91,6 +91,7 @@
 - [rust](#rust)
 - [security](#security)
 - [self-hosted](#self-hosted)
+- [shell](#shell)
 - [sqlite](#sqlite)
 - [stable-diffusion](#stable-diffusion)
 - [swift](#swift)
@@ -160,6 +161,7 @@
 
 ## bash 
 
+- [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
 
 ## bot 
@@ -381,6 +383,7 @@
 
 ## linux 
 
+- [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
 - [leomaurodesenv/cemu-linux](https://github.com/leomaurodesenv/cemu-linux) - Play with Cemu on Linux (with high performance)
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The s
 - [Swordfish90/cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display...
@@ -463,6 +466,7 @@
 
 ## others 
 
+- [bugbakery/audapolis](https://github.com/bugbakery/audapolis) - an editor for spoken-word audio with automatic transcription
 - [omni-media/omniclip](https://github.com/omni-media/omniclip) - Open source video editing web application
 - [YunoHost-Apps/pixelfed_ynh](https://github.com/YunoHost-Apps/pixelfed_ynh) - The federated image shareing service Pixelfed for YunoHost
 - [porsager/flems.io](https://github.com/porsager/flems.io) - Flems.io is a web playground. Ideal for prototyping & sharing live front-end examples.
@@ -639,6 +643,10 @@
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 
+## shell 
+
+- [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
+
 ## sqlite 
 
 - [frectonz/sql-studio](https://github.com/frectonz/sql-studio) - SQL Database Explorer [SQLite, libSQL, PostgreSQL, MySQL/MariaDB, DuckDB, ClickHouse]
@@ -661,6 +669,7 @@
 
 ## terminal 
 
+- [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
 - [Swordfish90/cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display...
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [gnunn1/tilix](https://github.com/gnunn1/tilix) - A tiling terminal emulator for Linux using GTK+ 3
