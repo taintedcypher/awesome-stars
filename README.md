@@ -268,7 +268,7 @@
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer. Multiple engine support (llama.cpp, TensorRT-LLM)
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
-- [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - Note taking for knowledge hackers
+- [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - The knowledge hacker's notebook
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 - [vixalien/muzika](https://github.com/vixalien/muzika) - Elegant music streaming app
 - [vixalien/sticky](https://github.com/vixalien/sticky) - A simple sticky notes app for GNOME
