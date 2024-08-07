@@ -65,6 +65,7 @@
 - [monitoring](#monitoring)
 - [music](#music)
 - [mysql](#mysql)
+- [nextjs](#nextjs)
 - [nodejs](#nodejs)
 - [objective-c](#objective-c)
 - [open-source](#open-source)
@@ -86,6 +87,7 @@
 - [raspberry-pi](#raspberry-pi)
 - [react](#react)
 - [react-native](#react-native)
+- [reactjs](#reactjs)
 - [rest-api](#rest-api)
 - [ruby](#ruby)
 - [rust](#rust)
@@ -98,6 +100,7 @@
 - [swiftui](#swiftui)
 - [terminal](#terminal)
 - [twitter](#twitter)
+- [typescript](#typescript)
 - [ubuntu](#ubuntu)
 - [vim](#vim)
 - [vue](#vue)
@@ -441,6 +444,10 @@
 - [frectonz/sql-studio](https://github.com/frectonz/sql-studio) - SQL Database Explorer [SQLite, libSQL, PostgreSQL, MySQL/MariaDB, DuckDB, ClickHouse]
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 
+## nextjs 
+
+- [recurser/string-is](https://github.com/recurser/string-is) - An open-source, privacy-friendly online string toolkit for developers.
+
 ## nodejs 
 
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
@@ -600,12 +607,17 @@
 
 ## react 
 
+- [recurser/string-is](https://github.com/recurser/string-is) - An open-source, privacy-friendly online string toolkit for developers.
 - [decaporg/decap-cms](https://github.com/decaporg/decap-cms) - A Git-based CMS for Static Site Generators
 - [EyuCoder/chatgpt-pro](https://github.com/EyuCoder/chatgpt-pro) - ChatGPT-Pro is an advanced application that combines the power of ChatGPT and DALL.E.
 
 ## react-native 
 
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
+
+## reactjs 
+
+- [recurser/string-is](https://github.com/recurser/string-is) - An open-source, privacy-friendly online string toolkit for developers.
 
 ## rest-api 
 
@@ -680,6 +692,10 @@
 
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 - [libredirect/browser_extension](https://github.com/libredirect/browser_extension) - A browser extension that redirects popular sites to alternative privacy friendly frontends
+
+## typescript 
+
+- [recurser/string-is](https://github.com/recurser/string-is) - An open-source, privacy-friendly online string toolkit for developers.
 
 ## ubuntu 
 
