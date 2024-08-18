@@ -40,13 +40,16 @@
 - [flutter](#flutter)
 - [font](#font)
 - [game](#game)
+- [game-development](#game-development)
 - [go](#go)
+- [godot](#godot)
 - [golang](#golang)
 - [hacking](#hacking)
 - [hacktoberfest](#hacktoberfest)
 - [haskell](#haskell)
 - [html](#html)
 - [http](#http)
+- [https](#https)
 - [ios](#ios)
 - [iot](#iot)
 - [java](#java)
@@ -297,12 +300,20 @@
 
 - [CorsixTH/CorsixTH](https://github.com/CorsixTH/CorsixTH) - Open source clone of Theme Hospital
 
+## game-development 
+
+- [stechyo/godot-steam-audio](https://github.com/stechyo/godot-steam-audio) - Immersive spatial audio extension for Godot, using Valve's SteamAudio
+
 ## go 
 
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server
 - [strukturag/nextcloud-spreed-signaling](https://github.com/strukturag/nextcloud-spreed-signaling) - Standalone signaling server for Nextcloud Talk.
 - [writefreely/writefreely](https://github.com/writefreely/writefreely) - A clean, Markdown-based publishing platform made for writers. Write together and build a community.
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
+
+## godot 
+
+- [stechyo/godot-steam-audio](https://github.com/stechyo/godot-steam-audio) - Immersive spatial audio extension for Godot, using Valve's SteamAudio
 
 ## golang 
 
@@ -343,6 +354,10 @@
 
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
 - [yunginnanet/HellPot](https://github.com/yunginnanet/HellPot) - HellPot is a cross-platform portal to endless suffering meant to punish unruly HTTP bots.
+
+## https 
+
+- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
 
 ## ios 
 
@@ -473,6 +488,7 @@
 
 ## others 
 
+- [unclearParadigm/schmusek8ser](https://github.com/unclearParadigm/schmusek8ser) - simple k8s helper to once and for all solve the :latest image problem on your k8s manifests
 - [teklynk/raspi-streamer](https://github.com/teklynk/raspi-streamer) - Capture and stream to any RTMP endpoint using a Raspberry Pi
 - [danielgtaylor/jpeg-archive](https://github.com/danielgtaylor/jpeg-archive) - Utilities for archiving JPEGs for long term storage.
 - [bugbakery/audapolis](https://github.com/bugbakery/audapolis) - an editor for spoken-word audio with automatic transcription
