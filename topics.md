@@ -101,6 +101,7 @@
 - [stable-diffusion](#stable-diffusion)
 - [swift](#swift)
 - [swiftui](#swiftui)
+- [tailwindcss](#tailwindcss)
 - [terminal](#terminal)
 - [twitter](#twitter)
 - [typescript](#typescript)
@@ -696,6 +697,10 @@
 ## swiftui 
 
 - [Dimillian/IceCubesApp](https://github.com/Dimillian/IceCubesApp) - A SwiftUI Mastodon client
+
+## tailwindcss 
+
+- [EyuCoder/chatgpt-pro](https://github.com/EyuCoder/chatgpt-pro) - ChatGPT-Pro is an advanced application that combines the power of ChatGPT and DALL.E.
 
 ## terminal 
 
