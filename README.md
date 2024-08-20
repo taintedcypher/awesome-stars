@@ -21,6 +21,7 @@
 - [Haskell](#haskell)
 - [Java](#java)
 - [JavaScript](#javascript)
+- [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
 - [Lua](#lua)
 - [MDX](#mdx)
@@ -160,6 +161,10 @@
 - [libredirect/browser_extension](https://github.com/libredirect/browser_extension) - A browser extension that redirects popular sites to alternative privacy friendly frontends
 - [EyuCoder/chatgpt-pro](https://github.com/EyuCoder/chatgpt-pro) - ChatGPT-Pro is an advanced application that combines the power of ChatGPT and DALL.E.
 - [mathiasbynens/emoji-regex](https://github.com/mathiasbynens/emoji-regex) - A regular expression to match all Emoji-only symbols as per the Unicode Standard.
+
+## Jupyter Notebook 
+
+- [Soumya-Kushwaha/SoundScape](https://github.com/Soumya-Kushwaha/SoundScape) - Real Time Sound Visualizer
 
 ## Kotlin 
 
