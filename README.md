@@ -34,6 +34,7 @@
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [Shell](#shell)
+- [Svelte](#svelte)
 - [Swift](#swift)
 - [TypeScript](#typescript)
 - [Vala](#vala)
@@ -138,6 +139,7 @@
 
 ## JavaScript 
 
+- [jaredly/hexo-admin](https://github.com/jaredly/hexo-admin) - An Admin Interface for Hexo
 - [omni-media/omniclip](https://github.com/omni-media/omniclip) - Open source video editing web application
 - [travist/jsencrypt](https://github.com/travist/jsencrypt) - A zero-dependency Javascript library to perform OpenSSL RSA Encryption, Decryption, and Key Generation.
 - [jstrieb/urlpages](https://github.com/jstrieb/urlpages) - Create and view web pages stored entirely in the URL
@@ -266,6 +268,10 @@
 - [YunoHost-Apps/owncast-emojiwall_ynh](https://github.com/YunoHost-Apps/owncast-emojiwall_ynh) - Owncast Emojiwall package for YunoHost
 - [tuxgasy/docker-dolibarr](https://github.com/tuxgasy/docker-dolibarr) - Docker image for Dolibarr with auto installer on first boot
 - [Hakkin/streamRIP](https://github.com/Hakkin/streamRIP) - Fallback to looping video file if main stream goes offline
+
+## Svelte 
+
+- [stemrollerapp/stemroller](https://github.com/stemrollerapp/stemroller) - Isolate vocals, drums, bass, and other instrumental stems from any song
 
 ## Swift 
 
