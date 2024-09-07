@@ -166,6 +166,7 @@
 
 ## Jupyter Notebook 
 
+- [XavierXiao/Dreambooth-Stable-Diffusion](https://github.com/XavierXiao/Dreambooth-Stable-Diffusion) - Implementation of Dreambooth (https://arxiv.org/abs/2208.12242) with Stable Diffusion
 - [Soumya-Kushwaha/SoundScape](https://github.com/Soumya-Kushwaha/SoundScape) - Real Time Sound Visualizer
 
 ## Kotlin 
