@@ -61,6 +61,7 @@
 - [language](#language)
 - [library](#library)
 - [linux](#linux)
+- [llm](#llm)
 - [low-code](#low-code)
 - [machine-learning](#machine-learning)
 - [macos](#macos)
@@ -425,6 +426,10 @@
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
 - [GetPublii/Publii](https://github.com/GetPublii/Publii) - The most intuitive Static Site CMS designed for SEO-optimized and privacy-focused websites.
 - [thsmi/sieve](https://github.com/thsmi/sieve) - Sieve Script Editor
+
+## llm 
+
+- [THUDM/CogVideo](https://github.com/THUDM/CogVideo) - Text-to-video generation: CogVideoX (2024) and CogVideo (ICLR 2023)
 
 ## low-code 
 
