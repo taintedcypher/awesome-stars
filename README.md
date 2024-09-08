@@ -211,6 +211,7 @@
 
 ## Python 
 
+- [THUDM/CogVideo](https://github.com/THUDM/CogVideo) - Text-to-video generation: CogVideoX (2024) and CogVideo (ICLR 2023)
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [unclearParadigm/schmusek8ser](https://github.com/unclearParadigm/schmusek8ser) - simple k8s helper to once and for all solve the :latest image problem on your k8s manifests
 - [teklynk/raspi-streamer](https://github.com/teklynk/raspi-streamer) - Capture and stream to any RTMP endpoint using a Raspberry Pi
