@@ -435,7 +435,7 @@
 
 ## llm 
 
-- [THUDM/CogVideo](https://github.com/THUDM/CogVideo) - Text-to-video generation: CogVideoX (2024) and CogVideo (ICLR 2023)
+- [THUDM/CogVideo](https://github.com/THUDM/CogVideo) - text and image to video generation: CogVideoX (2024) and CogVideo (ICLR 2023)
 
 ## low-code 
 
