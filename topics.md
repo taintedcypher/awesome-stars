@@ -352,6 +352,7 @@
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is an AI collaborative workspace where you achieve more without losing control of your data. The best open source alternative to Notion.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
+- [cmars/onionpipe](https://github.com/cmars/onionpipe) - Onion addresses for anything.
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 - [timvisee/send](https://github.com/timvisee/send) - :mailbox_with_mail: Simple, private file sharing. Mirror of https://gitlab.com/timvisee/send
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
@@ -566,7 +567,6 @@
 - [optapy/optapy-quickstarts](https://github.com/optapy/optapy-quickstarts) - OptaPy quick starts for AI optimization: showcases many different use cases.
 - [libretime/icecast-docker](https://github.com/libretime/icecast-docker) - Icecast images based on Debian or Alpine, including Icecast beta versions.
 - [minbrowser/min](https://github.com/minbrowser/min) - A fast, minimal browser that protects your privacy
-- [cmars/onionpipe](https://github.com/cmars/onionpipe) - Onion addresses for anything.
 - [marin-m/SongRec](https://github.com/marin-m/SongRec) - An open-source Shazam client for Linux, written in Rust.
 - [YunoHost-Apps/owncast-emojiwall_ynh](https://github.com/YunoHost-Apps/owncast-emojiwall_ynh) - Owncast Emojiwall package for YunoHost
 - [radiofrance/rf-liquidsoap](https://github.com/radiofrance/rf-liquidsoap) - Radio France's liquidsoap configuration with a self contained docker infrastructure for resilient radio streaming
