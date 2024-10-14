@@ -58,6 +58,7 @@
 
 ## C++ 
 
+- [Beep6581/RawTherapee](https://github.com/Beep6581/RawTherapee) - A powerful cross-platform raw photo processing program
 - [stechyo/godot-steam-audio](https://github.com/stechyo/godot-steam-audio) - Immersive spatial audio extension for Godot, using Valve's SteamAudio
 - [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
@@ -176,6 +177,8 @@
 
 ## Lua 
 
+- [bastibe/Fujifilm-Auto-Settings-for-Darktable](https://github.com/bastibe/Fujifilm-Auto-Settings-for-Darktable) - Automatically apply Fujifilm film simulation LUTs, crop, and DR correction when importing images in Darktable
+- [darktable-org/lua-scripts](https://github.com/darktable-org/lua-scripts) - 
 - [CorsixTH/CorsixTH](https://github.com/CorsixTH/CorsixTH) - Open source clone of Theme Hospital
 
 ## MDX 
@@ -193,6 +196,7 @@
 
 ## Others 
 
+- [jade-nl/dt.styles](https://github.com/jade-nl/dt.styles) - A large collection of styles for darktable. Set up in a hierarchical way.
 - [Curated-Awesome-Lists/awesome-ai-music-generation](https://github.com/Curated-Awesome-Lists/awesome-ai-music-generation) - A curated compilation of AI-driven generative music resources and projects. Explore the blend of machine learning algorithms and musical creativity.
 - [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
 - [porsager/flems.io](https://github.com/porsager/flems.io) - Flems.io is a web playground. Ideal for prototyping & sharing live front-end examples.
