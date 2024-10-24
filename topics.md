@@ -146,7 +146,7 @@
 
 ## atom 
 
-- [cypht-org/cypht](https://github.com/cypht-org/cypht) - Cypht: Lightweight Open Source webmail aggregator [PHP, JS]
+- [cypht-org/cypht](https://github.com/cypht-org/cypht) - Cypht: Lightweight Open Source webmail aggregator [PHP, JS].  Supports IMAP/SMTP, JMAP and soon EWS
 
 ## automation 
 
@@ -527,6 +527,7 @@
 
 ## others 
 
+- [Haoming02/sd-webui-mosaic-outpaint](https://github.com/Haoming02/sd-webui-mosaic-outpaint) - An Extension for Automatic1111 Webui that trivializes outpainting
 - [bastibe/Fujifilm-Auto-Settings-for-Darktable](https://github.com/bastibe/Fujifilm-Auto-Settings-for-Darktable) - Automatically apply Fujifilm film simulation LUTs, crop, and DR correction when importing images in Darktable
 - [darktable-org/lua-scripts](https://github.com/darktable-org/lua-scripts) - 
 - [jade-nl/dt.styles](https://github.com/jade-nl/dt.styles) - A large collection of styles for darktable. Set up in a hierarchical way.
@@ -621,7 +622,7 @@
 
 - [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server
-- [cypht-org/cypht](https://github.com/cypht-org/cypht) - Cypht: Lightweight Open Source webmail aggregator [PHP, JS]
+- [cypht-org/cypht](https://github.com/cypht-org/cypht) - Cypht: Lightweight Open Source webmail aggregator [PHP, JS].  Supports IMAP/SMTP, JMAP and soon EWS
 - [DanWin/le-chat-php](https://github.com/DanWin/le-chat-php) - A PHP Chat based on LE CHAT
 - [PrestaShop/docker](https://github.com/PrestaShop/docker) - 🐳
 
