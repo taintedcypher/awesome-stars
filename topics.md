@@ -592,7 +592,6 @@
 - [sorayuki/obs-multi-rtmp](https://github.com/sorayuki/obs-multi-rtmp) - OBS複数サイト同時配信プラグイン
 - [Glimesh/broadcast-box](https://github.com/Glimesh/broadcast-box) - A broadcast, in a box.
 - [BishopFox/unredacter](https://github.com/BishopFox/unredacter) - Never ever ever use pixelation as a redaction technique
-- [spipm/Depix](https://github.com/spipm/Depix) - Recovers passwords from pixelized screenshots
 - [JonasSchatz/DepixHMM](https://github.com/JonasSchatz/DepixHMM) - Recovers pixelized text from images
 - [wwmm/easyeffects](https://github.com/wwmm/easyeffects) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
 - [Johni0702/mumble-web-proxy](https://github.com/Johni0702/mumble-web-proxy) - Mumble to WebSocket+WebRTC proxy for use with mumble-web
