@@ -218,6 +218,7 @@
 
 ## Python 
 
+- [hkchengrex/MMAudio](https://github.com/hkchengrex/MMAudio) - [arXiv 2024] Taming Multimodal Joint Training for High-Quality Video-to-Audio Synthesis
 - [pjlab-songcomposer/songcomposer](https://github.com/pjlab-songcomposer/songcomposer) - 
 - [Haoming02/sd-webui-mosaic-outpaint](https://github.com/Haoming02/sd-webui-mosaic-outpaint) - An Extension for Automatic1111 Webui that trivializes outpainting
 - [borisdayma/dalle-mini](https://github.com/borisdayma/dalle-mini) - DALL·E Mini - Generate images from a text prompt
