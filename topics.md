@@ -23,6 +23,7 @@
 - [chatgpt-api](#chatgpt-api)
 - [chrome-extension](#chrome-extension)
 - [cli](#cli)
+- [computer-vision](#computer-vision)
 - [config](#config)
 - [cryptography](#cryptography)
 - [css](#css)
@@ -221,6 +222,10 @@
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [streamlink/streamlink](https://github.com/streamlink/streamlink) - Streamlink is a CLI utility which pipes video streams from various services into a video player
 
+## computer-vision 
+
+- [hkchengrex/MMAudio](https://github.com/hkchengrex/MMAudio) - [arXiv 2024] Taming Multimodal Joint Training for High-Quality Video-to-Audio Synthesis
+
 ## config 
 
 - [envkey/envkey](https://github.com/envkey/envkey) - Simple, end-to-end encrypted configuration and secrets management
@@ -247,6 +252,7 @@
 
 ## deep-learning 
 
+- [hkchengrex/MMAudio](https://github.com/hkchengrex/MMAudio) - [arXiv 2024] Taming Multimodal Joint Training for High-Quality Video-to-Audio Synthesis
 - [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
 - [stemrollerapp/stemroller](https://github.com/stemrollerapp/stemroller) - Isolate vocals, drums, bass, and other instrumental stems from any song
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
