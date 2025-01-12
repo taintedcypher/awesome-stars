@@ -532,6 +532,7 @@
 
 ## others 
 
+- [t3mujin/t3mujinpack](https://github.com/t3mujin/t3mujinpack) - Collection of film emulation presets for open-source RAW developer software Darktable.
 - [Christianfoley/LLMLyricGen](https://github.com/Christianfoley/LLMLyricGen) - Implementation of Lyre-LM: finetuning LLMs for lyric generation (llama-2-7b).
 - [pjlab-songcomposer/songcomposer](https://github.com/pjlab-songcomposer/songcomposer) - 
 - [intel/openvino-plugins-ai-audacity](https://github.com/intel/openvino-plugins-ai-audacity) - A set of AI-enabled effects, generators, and analyzers for Audacity®.
