@@ -137,6 +137,7 @@
 
 ## JavaScript 
 
+- [easydiffusion/easydiffusion](https://github.com/easydiffusion/easydiffusion) - Easiest 1-click way to create beautiful artwork on your PC using AI, with no tech knowledge. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and 
 - [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [philc/vimium](https://github.com/philc/vimium) - The hacker's browser.
 - [saharmor/dalle-playground](https://github.com/saharmor/dalle-playground) - A playground to generate images from any text prompt using Stable Diffusion (past: using DALL-E Mini)
@@ -165,6 +166,7 @@
 
 ## Jupyter Notebook 
 
+- [marceloprates/prettymaps](https://github.com/marceloprates/prettymaps) - A small set of Python functions to draw pretty maps from OpenStreetMap data. Based on osmnx, matplotlib and shapely libraries.
 - [Christianfoley/LLMLyricGen](https://github.com/Christianfoley/LLMLyricGen) - Implementation of Lyre-LM: finetuning LLMs for lyric generation (llama-2-7b).
 - [blib-la/bark-web-ui](https://github.com/blib-la/bark-web-ui) - Web UI for Bark by Suno.ai built with next.js
 - [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
