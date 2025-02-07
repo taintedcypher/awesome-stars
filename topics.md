@@ -573,7 +573,7 @@
 - [borisdayma/dalle-mini](https://github.com/borisdayma/dalle-mini) - DALL·E Mini - Generate images from a text prompt
 - [open-nomie/nomie6-oss](https://github.com/open-nomie/nomie6-oss) - Opensource version of Nomie 6
 - [idiap/coqui-ai-TTS](https://github.com/idiap/coqui-ai-TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
-- [kyutai-labs/moshi](https://github.com/kyutai-labs/moshi) - 
+- [kyutai-labs/moshi](https://github.com/kyutai-labs/moshi) - Moshi is a speech-text foundation model and full-duplex spoken dialogue framework. It uses Mimi, a state-of-the-art streaming neural audio codec.
 - [cocktailpeanut/fluxgym](https://github.com/cocktailpeanut/fluxgym) - Dead simple FLUX LoRA training UI with LOW VRAM support
 - [blib-la/bark-web-ui](https://github.com/blib-la/bark-web-ui) - Web UI for Bark by Suno.ai built with next.js
 - [Fictiverse/bark](https://github.com/Fictiverse/bark) - 🔊 Text-prompted Generative Audio Model
