@@ -220,6 +220,7 @@
 
 ## Python 
 
+- [Zyphra/Zonos](https://github.com/Zyphra/Zonos) - Zonos-v0.1 is a leading open-weight text-to-speech model trained on more than 200k hours of varied multilingual speech, delivering expressiveness and quality on par with—or even surpassing—top TTS pro
 - [yoheinakajima/ditto](https://github.com/yoheinakajima/ditto) - the simplest self-building coding agent
 - [hkchengrex/MMAudio](https://github.com/hkchengrex/MMAudio) - [arXiv 2024] Taming Multimodal Joint Training for High-Quality Video-to-Audio Synthesis
 - [pjlab-songcomposer/songcomposer](https://github.com/pjlab-songcomposer/songcomposer) - 
