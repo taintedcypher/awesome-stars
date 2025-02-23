@@ -282,7 +282,7 @@
 
 ## Shell 
 
-- [t3mujin/t3mujinpack](https://github.com/t3mujin/t3mujinpack) - Collection of film emulation presets for open-source RAW developer software Darktable.
+- [t3mujinpack/t3mujinpack](https://github.com/t3mujinpack/t3mujinpack) - Collection of film emulation presets for open-source RAW developer software Darktable.
 - [leomaurodesenv/cemu-linux](https://github.com/leomaurodesenv/cemu-linux) - Play with Cemu on Linux (with high performance)
 - [YunoHost-Apps/pixelfed_ynh](https://github.com/YunoHost-Apps/pixelfed_ynh) - The federated image shareing service Pixelfed for YunoHost
 - [samhwang/lnxpcs](https://github.com/samhwang/lnxpcs) - Forked from lnxpcs on GitLab, the project is now removed from GitLab.
