@@ -283,6 +283,7 @@
 
 ## Shell 
 
+- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [t3mujinpack/t3mujinpack](https://github.com/t3mujinpack/t3mujinpack) - Collection of film emulation presets for open-source RAW developer software Darktable.
 - [leomaurodesenv/cemu-linux](https://github.com/leomaurodesenv/cemu-linux) - Play with Cemu on Linux (with high performance)
 - [YunoHost-Apps/pixelfed_ynh](https://github.com/YunoHost-Apps/pixelfed_ynh) - The federated image shareing service Pixelfed for YunoHost
