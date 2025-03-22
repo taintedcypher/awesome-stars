@@ -565,6 +565,7 @@
 
 ## others 
 
+- [unclearParadigm/OSCARGyroExporter](https://github.com/unclearParadigm/OSCARGyroExporter) - Exports OSCAR-compatible Orientation/Inclination files for advanced Sleep-Monitoring from Physics Toolbox Sensor Suite
 - [EFForg/rayhunter](https://github.com/EFForg/rayhunter) - Rust tool to detect cell site simulators on an orbic mobile hotspot
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [Zyphra/Zonos](https://github.com/Zyphra/Zonos) - Zonos-v0.1 is a leading open-weight text-to-speech model trained on more than 200k hours of varied multilingual speech, delivering expressiveness and quality on par with—or even surpassing—top TTS pro
