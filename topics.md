@@ -77,6 +77,7 @@
 - [music](#music)
 - [mysql](#mysql)
 - [nextjs](#nextjs)
+- [no-code](#no-code)
 - [nodejs](#nodejs)
 - [objective-c](#objective-c)
 - [open-source](#open-source)
@@ -529,6 +530,10 @@
 ## nextjs 
 
 - [recurser/string-is](https://github.com/recurser/string-is) - An open-source, privacy-friendly online string toolkit for developers.
+
+## no-code 
+
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 
 ## nodejs 
 
