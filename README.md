@@ -211,7 +211,6 @@
 - [porsager/flems.io](https://github.com/porsager/flems.io) - Flems.io is a web playground. Ideal for prototyping & sharing live front-end examples.
 - [annappropriate/rose-pine-tilix](https://github.com/annappropriate/rose-pine-tilix) - Soho vibes for Tilix
 - [alexnuttinck/lab-openproject-lemonldap](https://github.com/alexnuttinck/lab-openproject-lemonldap) - Lab to test Openproject with lemonLDAP using docker-compose
-- [thehappydinoa/awesome-censys-queries](https://github.com/thehappydinoa/awesome-censys-queries) - A collection of fascinating and bizarre Censys Search Queries
 - [JavierOlmedo/shodan-filters](https://github.com/JavierOlmedo/shodan-filters) - A list of shodan filters
 - [jakejarvis/awesome-shodan-queries](https://github.com/jakejarvis/awesome-shodan-queries) - 🔍 A collection of interesting, funny, and depressing search queries to plug into shodan.io 👩‍💻
 - [lothos612/shodan](https://github.com/lothos612/shodan) - Shodan Dorks
@@ -260,6 +259,7 @@
 - [GradienceTeam/Community](https://github.com/GradienceTeam/Community) - Share your Presets
 - [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
 - [JonasSchatz/DepixHMM](https://github.com/JonasSchatz/DepixHMM) - Recovers pixelized text from images
+- [thehappydinoa/awesome-censys-queries](https://github.com/thehappydinoa/awesome-censys-queries) - A collection of fascinating and bizarre Censys Search Queries
 - [yomguy/DeeFuzzer](https://github.com/yomguy/DeeFuzzer) - Light and instant media streaming client for web radios and TVs written in Python
 - [mother-of-all-self-hosting/mash-playbook](https://github.com/mother-of-all-self-hosting/mash-playbook) - 🐋 Ansible playbook which helps you host various FOSS services as Docker containers on your own server
 - [tatsu-lab/stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca) - Code and documentation to train Stanford's Alpaca models, and generate the data.
