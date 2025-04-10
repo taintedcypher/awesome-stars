@@ -247,7 +247,7 @@
 
 ## computer-vision 
 
-- [hkchengrex/MMAudio](https://github.com/hkchengrex/MMAudio) - [CVPR 2025] Taming Multimodal Joint Training for High-Quality Video-to-Audio Synthesis
+- [hkchengrex/MMAudio](https://github.com/hkchengrex/MMAudio) - [CVPR 2025] MMAudio: Taming Multimodal Joint Training for High-Quality Video-to-Audio Synthesis
 
 ## config 
 
@@ -275,7 +275,7 @@
 
 ## deep-learning 
 
-- [hkchengrex/MMAudio](https://github.com/hkchengrex/MMAudio) - [CVPR 2025] Taming Multimodal Joint Training for High-Quality Video-to-Audio Synthesis
+- [hkchengrex/MMAudio](https://github.com/hkchengrex/MMAudio) - [CVPR 2025] MMAudio: Taming Multimodal Joint Training for High-Quality Video-to-Audio Synthesis
 - [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
 - [stemrollerapp/stemroller](https://github.com/stemrollerapp/stemroller) - Isolate vocals, drums, bass, and other instrumental stems from any song
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
