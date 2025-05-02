@@ -196,7 +196,7 @@
 
 ## Makefile 
 
-- [radiofrance/rf-liquidsoap](https://github.com/radiofrance/rf-liquidsoap) - Radio France's liquidsoap configuration with a self contained docker infrastructure for resilient radio streaming
+- [radiofrance/rf-liquidsoap](https://github.com/radiofrance/rf-liquidsoap) - Radio France's liquidsoap configuration for resilient radio streaming with a self contained docker infrastructure
 
 ## Objective-C 
 
