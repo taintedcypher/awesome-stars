@@ -598,6 +598,7 @@
 
 ## others 
 
+- [hluk/copyq-commands](https://github.com/hluk/copyq-commands) - Useful commands for CopyQ clipboard manager.
 - [unclearParadigm/OSCARGyroExporter](https://github.com/unclearParadigm/OSCARGyroExporter) - Exports OSCAR-compatible Orientation/Inclination files for advanced Sleep-Monitoring from Physics Toolbox Sensor Suite
 - [EFForg/rayhunter](https://github.com/EFForg/rayhunter) - Rust tool to detect cell site simulators on an orbic mobile hotspot
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
