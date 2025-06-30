@@ -255,6 +255,7 @@
 
 ## cli 
 
+- [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [streamlink/streamlink](https://github.com/streamlink/streamlink) - Streamlink is a CLI utility which pipes video streams from various services into a video player
 
@@ -407,6 +408,7 @@
 
 ## hacktoberfest 
 
+- [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
 - [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
@@ -560,6 +562,7 @@
 
 ## nextjs 
 
+- [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
 - [recurser/string-is](https://github.com/recurser/string-is) - An open-source, privacy-friendly online string toolkit for developers.
 
 ## no-code 
@@ -601,6 +604,7 @@
 
 ## others 
 
+- [LDNOOBW/naughty-words-js](https://github.com/LDNOOBW/naughty-words-js) - An npm/bower package to use the List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words
 - [hluk/copyq-commands](https://github.com/hluk/copyq-commands) - Useful commands for CopyQ clipboard manager.
 - [unclearParadigm/OSCARGyroExporter](https://github.com/unclearParadigm/OSCARGyroExporter) - Exports OSCAR-compatible Orientation/Inclination files for advanced Sleep-Monitoring from Physics Toolbox Sensor Suite
 - [EFForg/rayhunter](https://github.com/EFForg/rayhunter) - Rust tool to detect cell site simulators on an orbic mobile hotspot
@@ -867,6 +871,7 @@
 
 ## tailwindcss 
 
+- [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
 - [EyuCoder/chatgpt-pro](https://github.com/EyuCoder/chatgpt-pro) - ChatGPT-Pro is an advanced application that combines the power of ChatGPT and DALL.E.
 
 ## terminal 
@@ -889,6 +894,7 @@
 
 ## typescript 
 
+- [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
 - [imgly/background-removal-js](https://github.com/imgly/background-removal-js) - Remove backgrounds from images directly in the browser environment with ease and no additional costs or privacy concerns. Explore an interactive demo.
 - [recurser/string-is](https://github.com/recurser/string-is) - An open-source, privacy-friendly online string toolkit for developers.
 
