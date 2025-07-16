@@ -19,6 +19,7 @@
 - [Go](#go)
 - [HLSL](#hlsl)
 - [HTML](#html)
+- [Haskell](#haskell)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
@@ -139,6 +140,10 @@
 - [libremonde-org/paper-research-privacy-matrix.org](https://github.com/libremonde-org/paper-research-privacy-matrix.org) - Privacy research on Matrix.org
 - [hfg-gmuend/openmoji](https://github.com/hfg-gmuend/openmoji) - Open source emojis for designers, developers and everyone else!
 
+## Haskell 
+
+- [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
+
 ## Java 
 
 - [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) - Cryptomator for Windows, macOS, and Linux: Secure client-side encryption for your cloud storage, ensuring privacy and control over your data.
@@ -187,7 +192,6 @@
 ## Kotlin 
 
 - [alexmercerind/audire](https://github.com/alexmercerind/audire) - Identify music playing around you.
-- [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
 
 ## Lua 
 
