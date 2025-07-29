@@ -254,7 +254,7 @@
 - [kyutai-labs/moshi](https://github.com/kyutai-labs/moshi) - Moshi is a speech-text foundation model and full-duplex spoken dialogue framework. It uses Mimi, a state-of-the-art streaming neural audio codec.
 - [cocktailpeanut/fluxgym](https://github.com/cocktailpeanut/fluxgym) - Dead simple FLUX LoRA training UI with LOW VRAM support
 - [Fictiverse/bark](https://github.com/Fictiverse/bark) - 🔊 Text-prompted Generative Audio Model
-- [THUDM/CogVideo](https://github.com/THUDM/CogVideo) - text and image to video generation: CogVideoX (2024) and CogVideo (ICLR 2023)
+- [zai-org/CogVideo](https://github.com/zai-org/CogVideo) - text and image to video generation: CogVideoX (2024) and CogVideo (ICLR 2023)
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [unclearParadigm/schmusek8ser](https://github.com/unclearParadigm/schmusek8ser) - simple k8s helper to once and for all solve the :latest image problem on your k8s manifests
 - [teklynk/raspi-streamer](https://github.com/teklynk/raspi-streamer) - Capture and stream to any RTMP endpoint using a Raspberry Pi
