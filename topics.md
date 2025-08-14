@@ -667,7 +667,7 @@
 - [porsager/flems.io](https://github.com/porsager/flems.io) - Flems.io is a web playground. Ideal for prototyping & sharing live front-end examples.
 - [Alpha-VLLM/Lumina-T2X](https://github.com/Alpha-VLLM/Lumina-T2X) - Lumina-T2X is a unified framework for Text to Any Modality Generation
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
-- [travist/jsencrypt](https://github.com/travist/jsencrypt) - A zero-dependency Javascript library to perform OpenSSL RSA Encryption, Decryption, and Key Generation.
+- [travist/jsencrypt](https://github.com/travist/jsencrypt) - A tiny (18.5 kB gzip), zero-dependency, Javascript library to perform OpenSSL RSA Encryption, Decryption, and Key Generation.
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [yonasBSD/blackbox-terminal](https://github.com/yonasBSD/blackbox-terminal) - A beautiful GTK 4 terminal.
 - [annappropriate/rose-pine-tilix](https://github.com/annappropriate/rose-pine-tilix) - Soho vibes for Tilix
