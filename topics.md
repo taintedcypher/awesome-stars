@@ -727,7 +727,6 @@
 - [Glimesh/broadcast-box](https://github.com/Glimesh/broadcast-box) - A broadcast, in a box.
 - [BishopFox/unredacter](https://github.com/BishopFox/unredacter) - Never ever ever use pixelation as a redaction technique
 - [JonasSchatz/DepixHMM](https://github.com/JonasSchatz/DepixHMM) - Recovers pixelized text from images
-- [wwmm/easyeffects](https://github.com/wwmm/easyeffects) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
 - [Johni0702/mumble-web-proxy](https://github.com/Johni0702/mumble-web-proxy) - Mumble to WebSocket+WebRTC proxy for use with mumble-web
 - [Johni0702/mumble-web](https://github.com/Johni0702/mumble-web) - An HTML5 Mumble client
 - [Hakkin/streamRIP](https://github.com/Hakkin/streamRIP) - Fallback to looping video file if main stream goes offline
@@ -820,6 +819,7 @@
 ## qt 
 
 - [Swordfish90/cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display...
+- [wwmm/easyeffects](https://github.com/wwmm/easyeffects) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
 
 ## raspberry-pi 
 
