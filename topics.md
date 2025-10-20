@@ -738,7 +738,6 @@
 - [Jmgr/actiona](https://github.com/Jmgr/actiona) - Cross-platform automation tool
 - [jsbin/jsbin](https://github.com/jsbin/jsbin) - Collaborative JavaScript Debugging App
 - [samhwang/lnxpcs](https://github.com/samhwang/lnxpcs) - Forked from lnxpcs on GitLab, the project is now removed from GitLab.
-- [alainm23/planify](https://github.com/alainm23/planify) - Task manager with Todoist, Nextcloud & CalDAV support designed for GNOME
 - [m-bain/whisperX](https://github.com/m-bain/whisperX) - WhisperX:  Automatic Speech Recognition with Word-level Timestamps (& Diarization)
 - [solusipse/fiche](https://github.com/solusipse/fiche) - Command line pastebin for sharing terminal output.
 - [phandasm/waveform](https://github.com/phandasm/waveform) - Audio spectral analysis plugin for OBS
@@ -816,6 +815,7 @@
 ## productivity 
 
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
+- [alainm23/planify](https://github.com/alainm23/planify) - Task manager with Todoist, Nextcloud & CalDAV support designed for GNOME
 - [atlas-engineer/nyxt](https://github.com/atlas-engineer/nyxt) - Nyxt - the hacker's browser.
 
 ## project-management 
