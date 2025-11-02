@@ -1053,6 +1053,7 @@
 
 ## xml 
 
+- [alexmercerind/audire](https://github.com/alexmercerind/audire) - Identify music playing around you.
 - [dino/dino](https://github.com/dino/dino) - Modern XMPP ("Jabber") Chat Client using GTK/Vala
 
 ## youtube 
