@@ -704,7 +704,6 @@
 - [Haoming02/sd-webui-mosaic-outpaint](https://github.com/Haoming02/sd-webui-mosaic-outpaint) - An Extension for Automatic1111 Webui that trivializes outpainting
 - [bastibe/Fujifilm-Auto-Settings-for-Darktable](https://github.com/bastibe/Fujifilm-Auto-Settings-for-Darktable) - Automatically apply Fujifilm film simulation LUTs, crop, and DR correction when importing images in Darktable
 - [darktable-org/lua-scripts](https://github.com/darktable-org/lua-scripts) - 
-- [jade-nl/dt.styles](https://github.com/jade-nl/dt.styles) - A large collection of styles for darktable. Set up in a hierarchical way.
 - [RawTherapee/RawTherapee](https://github.com/RawTherapee/RawTherapee) - A powerful cross-platform raw photo processing program
 - [borisdayma/dalle-mini](https://github.com/borisdayma/dalle-mini) - DALL·E Mini - Generate images from a text prompt
 - [open-nomie/nomie6-oss](https://github.com/open-nomie/nomie6-oss) - Opensource version of Nomie 6
