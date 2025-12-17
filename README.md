@@ -161,7 +161,6 @@
 - [LDNOOBW/naughty-words-js](https://github.com/LDNOOBW/naughty-words-js) - An npm/bower package to use the List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words
 - [hluk/copyq-commands](https://github.com/hluk/copyq-commands) - Useful commands for CopyQ clipboard manager.
 - [easydiffusion/easydiffusion](https://github.com/easydiffusion/easydiffusion) - An easy 1-click way to create beautiful artwork on your PC using AI, with no tech knowledge. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and 
-- [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [philc/vimium](https://github.com/philc/vimium) - The hacker's browser.
 - [saharmor/dalle-playground](https://github.com/saharmor/dalle-playground) - A playground to generate images from any text prompt using Stable Diffusion (past: using DALL-E Mini)
 - [jaredly/hexo-admin](https://github.com/jaredly/hexo-admin) - An Admin Interface for Hexo
@@ -278,7 +277,6 @@
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [GradienceTeam/Community](https://github.com/GradienceTeam/Community) - Share your Presets
-- [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
 - [JonasSchatz/DepixHMM](https://github.com/JonasSchatz/DepixHMM) - Recovers pixelized text from images
 - [thehappydinoa/awesome-censys-queries](https://github.com/thehappydinoa/awesome-censys-queries) - A collection of fascinating and bizarre Censys Search Queries
 - [yomguy/DeeFuzzer](https://github.com/yomguy/DeeFuzzer) - Light and instant media streaming client for web radios and TVs written in Python
@@ -384,6 +382,7 @@
 
 ## Vue 
 
+- [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [dullage/flatnotes](https://github.com/dullage/flatnotes) - A self-hosted, database-less note taking web app that utilises a flat folder of markdown files for storage.
 
 
