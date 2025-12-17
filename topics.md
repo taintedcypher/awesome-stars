@@ -816,7 +816,6 @@
 - [abrander/scannerjack](https://github.com/abrander/scannerjack) - GTK+ interface for classic Uniden scanners
 - [DeadlyRedCube/Cathode-Retro](https://github.com/DeadlyRedCube/Cathode-Retro) - A collection of shaders to emulate the display of an NTSC signal through a CRT TV
 - [GradienceTeam/Community](https://github.com/GradienceTeam/Community) - Share your Presets
-- [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
 - [ldeso/hugo-flex](https://github.com/ldeso/hugo-flex) - A lightweight Hugo theme leveraging CSS Flexbox.
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
 - [Alinto/sope](https://github.com/Alinto/sope) - SOPE is an extensive set of frameworks which form a complete Web application server environment. Besides the Apple WebObjects compatible appserver extended with Zope concepts, it contains a large set 
