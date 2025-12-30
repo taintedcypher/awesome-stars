@@ -378,7 +378,7 @@
 
 ## Vala 
 
-- [yonasBSD/blackbox-terminal](https://github.com/yonasBSD/blackbox-terminal) - A beautiful GTK 4 terminal.
+- [yonasBSD/blackbox-terminal](https://github.com/yonasBSD/blackbox-terminal) - A beautiful GTK 4 terminal. Official repo is at https://gitlab.gnome.org/raggesilver/blackbox
 - [alainm23/planify](https://github.com/alainm23/planify) - Task manager with Todoist, Nextcloud & CalDAV support designed for GNOME
 - [dino/dino](https://github.com/dino/dino) - Modern XMPP ("Jabber") Chat Client using GTK/Vala
 
