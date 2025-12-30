@@ -796,7 +796,6 @@
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [travist/jsencrypt](https://github.com/travist/jsencrypt) - A tiny (18.5 kB gzip), zero-dependency, Javascript library to perform OpenSSL RSA Encryption, Decryption, and Key Generation.
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
-- [yonasBSD/blackbox-terminal](https://github.com/yonasBSD/blackbox-terminal) - A beautiful GTK 4 terminal.
 - [annappropriate/rose-pine-tilix](https://github.com/annappropriate/rose-pine-tilix) - Soho vibes for Tilix
 - [porsager/flems](https://github.com/porsager/flems) - A single file web playground and sandbox
 - [lanceewing/agi](https://github.com/lanceewing/agi) - Original source code of Sierra On-Line's AGI adventure game interpreter. Found in the unused parts of original game disks!
@@ -1063,6 +1062,7 @@
 
 - [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
 - [Swordfish90/cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display...
+- [yonasBSD/blackbox-terminal](https://github.com/yonasBSD/blackbox-terminal) - A beautiful GTK 4 terminal. Official repo is at https://gitlab.gnome.org/raggesilver/blackbox
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [gnunn1/tilix](https://github.com/gnunn1/tilix) - A tiling terminal emulator for Linux using GTK+ 3
 
