@@ -157,7 +157,7 @@
 - [naughtyduk/liquidGL](https://github.com/naughtyduk/liquidGL) - liquidGL – Ultra-light glassmorphism for the web (Liquid Glass)
 - [dashersw/liquid-glass-js](https://github.com/dashersw/liquid-glass-js) - Liquid Glass UI - Apple-Inspired Glass Effects Library
 - [AgentScrubbles/owncast-live-gnome-extension](https://github.com/AgentScrubbles/owncast-live-gnome-extension) - 
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5800 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5900 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [Tudmotu/gnome-shell-extension-clipboard-indicator](https://github.com/Tudmotu/gnome-shell-extension-clipboard-indicator) - The most popular clipboard manager for GNOME, with over 1M downloads
 - [LDNOOBW/naughty-words-js](https://github.com/LDNOOBW/naughty-words-js) - An npm/bower package to use the List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words
 - [hluk/copyq-commands](https://github.com/hluk/copyq-commands) - Useful commands for CopyQ clipboard manager.
@@ -338,7 +338,7 @@
 ## TypeScript 
 
 - [Lulzx/tinypdf](https://github.com/Lulzx/tinypdf) - Minimal PDF creation library. &lt;400 LOC, zero dependencies, makes real PDFs.
-- [sst/opencode](https://github.com/sst/opencode) - The open source coding agent.
+- [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [iyinchao/liquid-glass-studio](https://github.com/iyinchao/liquid-glass-studio) - 🔮 The Ultimate Apple Liquid Glass UI — Recreated for the Web, powered by WebGL2 and shaders.
 - [CaramelFur/Picsur](https://github.com/CaramelFur/Picsur) - An easy to use, selfhostable image sharing service like Imgur with built in converting
 - [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - Ideas grow better together
