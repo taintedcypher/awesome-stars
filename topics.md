@@ -823,7 +823,6 @@
 - [optapy/optapy-quickstarts](https://github.com/optapy/optapy-quickstarts) - OptaPy quick starts for AI optimization: showcases many different use cases.
 - [libretime/icecast-docker](https://github.com/libretime/icecast-docker) - Icecast images based on Debian or Alpine, including Icecast beta versions.
 - [minbrowser/min](https://github.com/minbrowser/min) - A fast, minimal browser that protects your privacy
-- [marin-m/SongRec](https://github.com/marin-m/SongRec) - An open-source Shazam client for Linux, written in Rust.
 - [YunoHost-Apps/owncast-emojiwall_ynh](https://github.com/YunoHost-Apps/owncast-emojiwall_ynh) - Owncast Emojiwall package for YunoHost
 - [radiofrance/rf-liquidsoap](https://github.com/radiofrance/rf-liquidsoap) - Radio France's liquidsoap configuration for resilient radio streaming with a self contained docker infrastructure
 - [jprjr/icecast-hls](https://github.com/jprjr/icecast-hls) - A tool to take Icecast streams and re-encode into HLS
@@ -990,6 +989,7 @@
 - [redlib-org/redlib](https://github.com/redlib-org/redlib) - Private front-end for Reddit
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
+- [marin-m/SongRec](https://github.com/marin-m/SongRec) - An open-source Shazam client for Linux, written in Rust.
 
 ## sass 
 
