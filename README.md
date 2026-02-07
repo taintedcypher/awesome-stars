@@ -26,7 +26,6 @@
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
 - [Lua](#lua)
-- [MDX](#mdx)
 - [Makefile](#makefile)
 - [Objective-C](#objective-c)
 - [Others](#others)
@@ -145,6 +144,7 @@
 - [ldeso/hugo-flex](https://github.com/ldeso/hugo-flex) - A lightweight Hugo theme leveraging CSS Flexbox.
 - [wwmm/easyeffects](https://github.com/wwmm/easyeffects) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
 - [libremonde-org/paper-research-privacy-matrix.org](https://github.com/libremonde-org/paper-research-privacy-matrix.org) - Privacy research on Matrix.org
+- [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [hfg-gmuend/openmoji](https://github.com/hfg-gmuend/openmoji) - Open source emojis for designers, developers and everyone else!
 
 ## Haskell 
@@ -209,10 +209,6 @@
 - [bastibe/Fujifilm-Auto-Settings-for-Darktable](https://github.com/bastibe/Fujifilm-Auto-Settings-for-Darktable) - Automatically apply Fujifilm film simulation LUTs, crop, and DR correction when importing images in Darktable
 - [darktable-org/lua-scripts](https://github.com/darktable-org/lua-scripts) - 
 - [CorsixTH/CorsixTH](https://github.com/CorsixTH/CorsixTH) - Open source clone of Theme Hospital
-
-## MDX 
-
-- [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 
 ## Makefile 
 
