@@ -281,7 +281,7 @@
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 - [optapy/optapy-quickstarts](https://github.com/optapy/optapy-quickstarts) - OptaPy quick starts for AI optimization: showcases many different use cases.
-- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
+- [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [GradienceTeam/Community](https://github.com/GradienceTeam/Community) - Share your Presets
 - [JonasSchatz/DepixHMM](https://github.com/JonasSchatz/DepixHMM) - Recovers pixelized text from images
