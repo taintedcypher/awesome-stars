@@ -163,7 +163,7 @@
 - [dashersw/liquid-glass-js](https://github.com/dashersw/liquid-glass-js) - Liquid Glass UI - Apple-Inspired Glass Effects Library
 - [AgentScrubbles/owncast-live-gnome-extension](https://github.com/AgentScrubbles/owncast-live-gnome-extension) - 
 - [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 6000 free MIT-licensed high-quality SVG icons for you to use in your web projects.
-- [Tudmotu/gnome-shell-extension-clipboard-indicator](https://github.com/Tudmotu/gnome-shell-extension-clipboard-indicator) - The most popular clipboard manager for GNOME, with over 1M downloads
+- [Tudmotu/gnome-shell-extension-clipboard-indicator](https://github.com/Tudmotu/gnome-shell-extension-clipboard-indicator) - The most popular clipboard manager for GNOME, with over 2M downloads
 - [LDNOOBW/naughty-words-js](https://github.com/LDNOOBW/naughty-words-js) - An npm/bower package to use the List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words
 - [hluk/copyq-commands](https://github.com/hluk/copyq-commands) - Useful commands for CopyQ clipboard manager.
 - [easydiffusion/easydiffusion](https://github.com/easydiffusion/easydiffusion) - An easy 1-click way to create beautiful artwork on your PC using AI, with no tech knowledge. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and 
@@ -251,7 +251,7 @@
 - [microsoft/fluentui-emoji](https://github.com/microsoft/fluentui-emoji) - A collection of familiar, friendly, and modern emoji from Microsoft
 - [googlefonts/noto-emoji](https://github.com/googlefonts/noto-emoji) - Noto Emoji fonts
 - [OutofAi/OutofFocus](https://github.com/OutofAi/OutofFocus) - An AI focused photo manipulation tool based on Gradio
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth Studio is a web UI for training and running open models like Qwen, DeepSeek, gpt-oss and Gemma locally.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth Studio is a web UI for training and running open models like Qwen3.5, Gemma 4, DeepSeek, gpt-oss locally.
 - [royerlab/aydin](https://github.com/royerlab/aydin) - Aydin — User-friendly, Fast, Self-Supervised Image Denoising for All.
 - [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN) - GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
 - [microsoft/Bringing-Old-Photos-Back-to-Life](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life) - Bringing Old Photo Back to Life (CVPR 2020 oral)
