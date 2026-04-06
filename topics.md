@@ -767,6 +767,7 @@
 
 ## others 
 
+- [pingdotgg/t3code](https://github.com/pingdotgg/t3code) - 
 - [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
 - [AudioLLMs/Awesome-Audio-LLM](https://github.com/AudioLLMs/Awesome-Audio-LLM) - Audio Large Language Models
 - [aptible/supercronic](https://github.com/aptible/supercronic) - Cron for containers
