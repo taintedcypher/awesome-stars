@@ -27,6 +27,7 @@
 - [chatbot](#chatbot)
 - [chatgpt](#chatgpt)
 - [chrome-extension](#chrome-extension)
+- [claude-code](#claude-code)
 - [cli](#cli)
 - [clojure](#clojure)
 - [cloud](#cloud)
@@ -302,6 +303,12 @@
 
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 - [libredirect/browser_extension](https://github.com/libredirect/browser_extension) - A browser extension that redirects popular sites to alternative privacy friendly frontends
+
+## claude-code 
+
+- [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
+- [htdt/godogen](https://github.com/htdt/godogen) - Claude Code skills that build complete Godot 4 projects from a game description
+- [joemckenney/wake](https://github.com/joemckenney/wake) - Wake records your terminal sessions so Claude Code can see what you've been doing.
 
 ## cli 
 
@@ -768,7 +775,6 @@
 ## others 
 
 - [pingdotgg/t3code](https://github.com/pingdotgg/t3code) - 
-- [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
 - [AudioLLMs/Awesome-Audio-LLM](https://github.com/AudioLLMs/Awesome-Audio-LLM) - Audio Large Language Models
 - [aptible/supercronic](https://github.com/aptible/supercronic) - Cron for containers
 - [DGoettlich/history-llms](https://github.com/DGoettlich/history-llms) - Information hub for our project training the largest possible historical LLMs.
