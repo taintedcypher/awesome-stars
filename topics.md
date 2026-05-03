@@ -80,6 +80,7 @@
 - [jupyter-notebook](#jupyter-notebook)
 - [kotlin](#kotlin)
 - [kubernetes](#kubernetes)
+- [laravel](#laravel)
 - [library](#library)
 - [linux](#linux)
 - [llm](#llm)
@@ -610,6 +611,10 @@
 ## kubernetes 
 
 - [envkey/envkey](https://github.com/envkey/envkey) - Simple, end-to-end encrypted configuration and secrets management
+
+## laravel 
+
+- [pixelfed/pixelfed](https://github.com/pixelfed/pixelfed) - Photo Sharing. For Everyone.
 
 ## library 
 
