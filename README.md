@@ -25,8 +25,8 @@
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
+- [Liquidsoap](#liquidsoap)
 - [Lua](#lua)
-- [Makefile](#makefile)
 - [Objective-C](#objective-c)
 - [Others](#others)
 - [PHP](#php)
@@ -208,15 +208,15 @@
 
 - [alexmercerind/audire](https://github.com/alexmercerind/audire) - Identify music playing around you.
 
+## Liquidsoap 
+
+- [radiofrance/rf-liquidsoap](https://github.com/radiofrance/rf-liquidsoap) - Radio France's liquidsoap configuration for resilient radio streaming with a self contained docker infrastructure
+
 ## Lua 
 
 - [bastibe/Fujifilm-Auto-Settings-for-Darktable](https://github.com/bastibe/Fujifilm-Auto-Settings-for-Darktable) - Automatically apply Fujifilm film simulation LUTs, crop, and DR correction when importing images in Darktable
 - [darktable-org/lua-scripts](https://github.com/darktable-org/lua-scripts) - 
 - [CorsixTH/CorsixTH](https://github.com/CorsixTH/CorsixTH) - Open source clone of Theme Hospital
-
-## Makefile 
-
-- [radiofrance/rf-liquidsoap](https://github.com/radiofrance/rf-liquidsoap) - Radio France's liquidsoap configuration for resilient radio streaming with a self contained docker infrastructure
 
 ## Objective-C 
 
@@ -253,6 +253,7 @@
 
 - [htdt/godogen](https://github.com/htdt/godogen) - Autonomous game development for Godot and Bevy with Claude Code and Codex
 - [AudioLLMs/Awesome-Audio-LLM](https://github.com/AudioLLMs/Awesome-Audio-LLM) - Audio Large Language Models
+- [av/harbor](https://github.com/av/harbor) - Stop configuring your AI stack. Start using it. One command brings a complete pre-wired LLM stack with hundreds of services to explore.
 - [microsoft/fluentui-emoji](https://github.com/microsoft/fluentui-emoji) - A collection of familiar, friendly, and modern emoji from Microsoft
 - [googlefonts/noto-emoji](https://github.com/googlefonts/noto-emoji) - Noto Emoji fonts
 - [OutofAi/OutofFocus](https://github.com/OutofAi/OutofFocus) - An AI focused photo manipulation tool based on Gradio
@@ -355,7 +356,6 @@
 - [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
 - [pingdotgg/t3code](https://github.com/pingdotgg/t3code) - 
 - [Lulzx/tinypdf](https://github.com/Lulzx/tinypdf) - Minimal PDF creation library. &lt;400 LOC, zero dependencies, makes real PDFs.
-- [av/harbor](https://github.com/av/harbor) - Stop configuring your AI stack. Start using it. One command brings a complete pre-wired LLM stack with hundreds of services to explore.
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [iyinchao/liquid-glass-studio](https://github.com/iyinchao/liquid-glass-studio) - 🔮 The Ultimate Apple Liquid Glass UI — Recreated for the Web, powered by WebGL2 & WebGPU
 - [CaramelFur/Picsur](https://github.com/CaramelFur/Picsur) - An easy to use, selfhostable image sharing service like Imgur with built in converting
