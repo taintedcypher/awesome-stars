@@ -872,7 +872,6 @@
 - [minbrowser/min](https://github.com/minbrowser/min) - A fast, minimal browser that protects your privacy
 - [YunoHost-Apps/owncast-emojiwall_ynh](https://github.com/YunoHost-Apps/owncast-emojiwall_ynh) - Owncast Emojiwall package for YunoHost
 - [radiofrance/rf-liquidsoap](https://github.com/radiofrance/rf-liquidsoap) - Radio France's liquidsoap configuration for resilient radio streaming with a self contained docker infrastructure
-- [jprjr/icecast-hls](https://github.com/jprjr/icecast-hls) - A tool to take Icecast streams and re-encode into HLS
 - [abrander/scannerjack](https://github.com/abrander/scannerjack) - GTK+ interface for classic Uniden scanners
 - [DeadlyRedCube/Cathode-Retro](https://github.com/DeadlyRedCube/Cathode-Retro) - A collection of shaders to emulate the display of an NTSC signal through a CRT TV
 - [GradienceTeam/Community](https://github.com/GradienceTeam/Community) - Share your Presets
