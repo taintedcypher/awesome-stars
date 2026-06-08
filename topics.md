@@ -879,7 +879,7 @@
 - [exeldro/obs-shaderfilter](https://github.com/exeldro/obs-shaderfilter) - OBS Studio filter for applying an arbitrary shader to a source.
 - [jan-warchol/selenized](https://github.com/jan-warchol/selenized) - Solarized redesigned: fine-tuned color palette for programmers with focus on readability.
 - [lllyasviel/stable-diffusion-webui-forge](https://github.com/lllyasviel/stable-diffusion-webui-forge) - 
-- [Jmgr/actiona](https://github.com/Jmgr/actiona) - Cross-platform automation tool
+- [Jmgr/actiona](https://github.com/Jmgr/actiona) - Actiona 3: cross-platform automation tool
 - [jsbin/jsbin](https://github.com/jsbin/jsbin) - Collaborative JavaScript Debugging App
 - [samhwang/lnxpcs](https://github.com/samhwang/lnxpcs) - Forked from lnxpcs on GitLab, the project is now removed from GitLab.
 - [m-bain/whisperX](https://github.com/m-bain/whisperX) - WhisperX:  Automatic Speech Recognition with Word-level Timestamps (& Diarization)
