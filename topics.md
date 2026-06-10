@@ -819,7 +819,7 @@
 - [EmissarySocial/emissary](https://github.com/EmissarySocial/emissary) - The Social Web Toolkit
 - [hluk/CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features
 - [Euro-Office/eurooffice-nextcloud](https://github.com/Euro-Office/eurooffice-nextcloud) - 
-- [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
+- [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 - [pingdotgg/t3code](https://github.com/pingdotgg/t3code) - 
 - [BinWang28/audio-ai-hub](https://github.com/BinWang28/audio-ai-hub) - The hub for audio AI research: papers, open models, benchmarks & datasets across audio LLMs, speech recognition, TTS, music & audio generation.
 - [aptible/supercronic](https://github.com/aptible/supercronic) - Cron for containers
