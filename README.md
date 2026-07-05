@@ -358,6 +358,7 @@
 
 ## TypeScript 
 
+- [posabsolute/zork-ui](https://github.com/posabsolute/zork-ui) - Zork I (1980) in the browser — real Z-machine, 110 hand-crafted animated pixel-art scenes that track the live game state, generative WebAudio ambience, Trizbort-style auto-map
 - [jamiepine/voicebox](https://github.com/jamiepine/voicebox) - The open-source AI voice studio. Clone, dictate, create.
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
