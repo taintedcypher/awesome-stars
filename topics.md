@@ -167,6 +167,7 @@
 - [webapp](#webapp)
 - [windows](#windows)
 - [wordpress](#wordpress)
+- [workflow](#workflow)
 - [xml](#xml)
 - [youtube](#youtube)
 - [zsh](#zsh)
@@ -1266,6 +1267,10 @@
 ## wordpress 
 
 - [KevinBatdorf/code-block-pro](https://github.com/KevinBatdorf/code-block-pro) - A Gutenberg code block with syntax highlighting powered by VS Code
+
+## workflow 
+
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 
 ## xml 
 
