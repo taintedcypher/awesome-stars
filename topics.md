@@ -833,7 +833,7 @@
 ## others 
 
 - [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design.
-- [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus) - Self-hosted AI workspace.
+- [odysseus-dev/odysseus](https://github.com/odysseus-dev/odysseus) - Self-hosted AI workspace.
 - [russellromney/honker](https://github.com/russellromney/honker) - SQLite extension + bindings for Postgres NOTIFY/LISTEN semantics with durable queues, streams, pub/sub, and scheduler
 - [bigskysoftware/_hyperscript](https://github.com/bigskysoftware/_hyperscript) - a small scripting language for the web
 - [EmissarySocial/emissary](https://github.com/EmissarySocial/emissary) - The Social Web Toolkit
