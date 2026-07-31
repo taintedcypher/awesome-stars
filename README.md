@@ -203,7 +203,6 @@
 
 ## Jupyter Notebook 
 
-- [marceloprates/prettymaps](https://github.com/marceloprates/prettymaps) - Draw pretty maps from OpenStreetMap data! Built with osmnx +matplotlib + shapely
 - [Christianfoley/LLMLyricGen](https://github.com/Christianfoley/LLMLyricGen) - Implementation of Lyre-LM: finetuning LLMs for lyric generation (llama-2-7b).
 - [blib-la/bark-web-ui](https://github.com/blib-la/bark-web-ui) - Web UI for Bark by Suno.ai built with next.js
 - [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
@@ -273,6 +272,7 @@
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [Zyphra/Zonos](https://github.com/Zyphra/Zonos) - Zonos-v0.1 is a leading open-weight text-to-speech model trained on more than 200k hours of varied multilingual speech, delivering expressiveness and quality on par with—or even surpassing—top TTS pro
+- [marceloprates/prettymaps](https://github.com/marceloprates/prettymaps) - Draw pretty maps from OpenStreetMap data! Built with osmnx +matplotlib + shapely
 - [yoheinakajima/ditto](https://github.com/yoheinakajima/ditto) - the simplest self-building coding agent
 - [hkchengrex/MMAudio](https://github.com/hkchengrex/MMAudio) - [CVPR 2025] MMAudio: Taming Multimodal Joint Training for High-Quality Video-to-Audio Synthesis
 - [pjlab-songcomposer/songcomposer](https://github.com/pjlab-songcomposer/songcomposer) - [ACL 2025 Main]  SongComposer: A Large Language Model for Lyric and Melody Generation in Song Composition
