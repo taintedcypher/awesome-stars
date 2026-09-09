@@ -852,7 +852,7 @@
 - [Lulzx/tinypdf](https://github.com/Lulzx/tinypdf) - Minimal PDF creation library. &lt;400 LOC, zero dependencies, makes real PDFs.
 - [OHF-Voice/piper1-gpl](https://github.com/OHF-Voice/piper1-gpl) - Fast and local neural text-to-speech engine
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
-- [naughtyduk/liquidGL](https://github.com/naughtyduk/liquidGL) - liquidGL – Ultra-light glassmorphism for the web (Liquid Glass)
+- [naughtyduk/liquidGL](https://github.com/naughtyduk/liquidGL) - liquidGL – Liquid Glass - Powered by WebGL
 - [dashersw/liquid-glass-js](https://github.com/dashersw/liquid-glass-js) - Liquid Glass UI - Apple-Inspired Glass Effects Library
 - [googlefonts/noto-emoji](https://github.com/googlefonts/noto-emoji) - Noto Emoji fonts
 - [intel/intel-one-mono](https://github.com/intel/intel-one-mono) - Intel One Mono font repository
