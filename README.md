@@ -173,7 +173,7 @@
 - [naughtyduk/liquidGL](https://github.com/naughtyduk/liquidGL) - liquidGL – Liquid Glass - Powered by WebGPU/WebGL
 - [dashersw/liquid-glass-js](https://github.com/dashersw/liquid-glass-js) - Liquid Glass UI - Apple-Inspired Glass Effects Library
 - [AgentScrubbles/owncast-live-gnome-extension](https://github.com/AgentScrubbles/owncast-live-gnome-extension) - 
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 6100 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 6200 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [Tudmotu/gnome-shell-extension-clipboard-indicator](https://github.com/Tudmotu/gnome-shell-extension-clipboard-indicator) - The most popular clipboard manager for GNOME, with over 2M downloads
 - [LDNOOBW/naughty-words-js](https://github.com/LDNOOBW/naughty-words-js) - An npm/bower package to use the List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words
 - [hluk/copyq-commands](https://github.com/hluk/copyq-commands) - Useful commands for CopyQ clipboard manager.
@@ -391,7 +391,7 @@
 - [omni-media/omniclip](https://github.com/omni-media/omniclip) - Open source video editing web application
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
-- [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - An open source personal productivity platform built on Markdown, turbo charged with the scripting power of Lua
+- [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - The malleable knowledge base for you and your team. Powered by Markdown and Lua.
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 - [vixalien/muzika](https://github.com/vixalien/muzika) - Elegant music streaming app
 - [vixalien/sticky](https://github.com/vixalien/sticky) - A simple sticky notes app for GNOME
