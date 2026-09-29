@@ -124,7 +124,7 @@
 
 - [EmissarySocial/emissary](https://github.com/EmissarySocial/emissary) - The Social Web Toolkit
 - [aptible/supercronic](https://github.com/aptible/supercronic) - Cron for containers
-- [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
+- [usememos/memos](https://github.com/usememos/memos) - A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.
 - [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
@@ -170,7 +170,7 @@
 - [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design.
 - [bigskysoftware/_hyperscript](https://github.com/bigskysoftware/_hyperscript) - a small scripting language for the web
 - [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
-- [naughtyduk/liquidGL](https://github.com/naughtyduk/liquidGL) - liquidGL – Liquid Glass - Powered by WebGPU/WebGL
+- [naughtyduk/liquidGL](https://github.com/naughtyduk/liquidGL) - liquidGL – Liquid Glass Library - WebGPU/WebGL
 - [dashersw/liquid-glass-js](https://github.com/dashersw/liquid-glass-js) - Liquid Glass UI - Apple-Inspired Glass Effects Library
 - [AgentScrubbles/owncast-live-gnome-extension](https://github.com/AgentScrubbles/owncast-live-gnome-extension) - 
 - [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 6200 free MIT-licensed high-quality SVG icons for you to use in your web projects.
