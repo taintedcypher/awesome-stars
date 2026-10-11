@@ -976,7 +976,7 @@
 
 ## privacy 
 
-- [du82/nonograph](https://github.com/du82/nonograph) - Nonograph is a self-hosted anonymous publishing platform. Write anonymously, publish instantly, read privately.
+- [du82/nonograph](https://github.com/du82/nonograph) - Nonograph is a minimalist anonymous publishing tool that allows you to create richly formatted posts and get a shareable link in just a click.
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [Mail-0/Zero](https://github.com/Mail-0/Zero) - Experience email the way you want with Mail0 – the first open source email app that puts your privacy and safety first. Join the discord: https://mail0.link/discord
 - [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
