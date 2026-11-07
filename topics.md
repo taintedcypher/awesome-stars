@@ -162,6 +162,7 @@
 - [userscript](#userscript)
 - [video](#video)
 - [vim](#vim)
+- [vscode](#vscode)
 - [vue](#vue)
 - [vuejs](#vuejs)
 - [web](#web)
@@ -845,6 +846,7 @@
 
 ## others 
 
+- [y4my4my4m/harmony](https://github.com/y4my4my4m/harmony) - Federated social app: Discord-style servers and chat with ActivityPub. Vue 3 + Supabase + Tauri.
 - [sdi2200262/elements-of-style-for-agents](https://github.com/sdi2200262/elements-of-style-for-agents) - A compact plain-English writing standard for clear, concise agent communication and authored prose.
 - [maniacx/Bluetooth-Battery-Meter](https://github.com/maniacx/Bluetooth-Battery-Meter) - A Gnome extension featuring indicator icons in system tray, serving as meter for Bluetooth device battery levels and providing detailed battery levels via icon/text in the Bluetooth quick settings men
 - [JustVugg/colibri](https://github.com/JustVugg/colibri) - A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own.
@@ -905,7 +907,6 @@
 - [YunoHost-Apps/pixelfed_ynh](https://github.com/YunoHost-Apps/pixelfed_ynh) - The federated image shareing service Pixelfed for YunoHost
 - [porsager/flems.io](https://github.com/porsager/flems.io) - Flems.io is a web playground. Ideal for prototyping & sharing live front-end examples.
 - [Alpha-VLLM/Lumina-T2X](https://github.com/Alpha-VLLM/Lumina-T2X) - Lumina-T2X is a unified framework for Text to Any Modality Generation
-- [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [travist/jsencrypt](https://github.com/travist/jsencrypt) - A tiny (18.5 kB gzip), zero-dependency, Javascript library to perform OpenSSL RSA Encryption, Decryption, and Key Generation.
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [annappropriate/rose-pine-tilix](https://github.com/annappropriate/rose-pine-tilix) - Soho vibes for Tilix
@@ -1256,6 +1257,11 @@
 
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [atlas-engineer/nyxt](https://github.com/atlas-engineer/nyxt) - Nyxt - the hacker's browser.
+
+## vscode 
+
+- [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
+- [KevinBatdorf/code-block-pro](https://github.com/KevinBatdorf/code-block-pro) - A Gutenberg code block with syntax highlighting powered by VS Code
 
 ## vue 
 
