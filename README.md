@@ -381,7 +381,7 @@
 - [posabsolute/zork-ui](https://github.com/posabsolute/zork-ui) - Zork I (1980) in the browser — real Z-machine, 110 hand-crafted animated pixel-art scenes that track the live game state, generative WebAudio ambience, Trizbort-style auto-map
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
-- [pingdotgg/t3code](https://github.com/pingdotgg/t3code) - 
+- [pingdotgg/t3code](https://github.com/pingdotgg/t3code) - The best way to control Claude Code, Codex and more from any computer or phone
 - [Lulzx/tinypdf](https://github.com/Lulzx/tinypdf) - Minimal PDF creation library. &lt;400 LOC, zero dependencies, makes real PDFs.
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [iyinchao/liquid-glass-studio](https://github.com/iyinchao/liquid-glass-studio) - 🔮 The Ultimate Apple Liquid Glass UI — Recreated for the Web, powered by WebGL2 & WebGPU
