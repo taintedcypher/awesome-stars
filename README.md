@@ -330,6 +330,7 @@
 
 ## Ruby 
 
+- [havenweb/haven](https://github.com/havenweb/haven) - Self-hostable private blogging
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 
 ## Rust 
