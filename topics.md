@@ -1075,6 +1075,7 @@
 
 ## raspberry-pi 
 
+- [havenweb/haven](https://github.com/havenweb/haven) - Self-hostable private blogging
 - [hirve/old-radio-sound](https://github.com/hirve/old-radio-sound) - The server to emulate old warm AM radio sound on Raspberry Pi
 
 ## react 
@@ -1149,6 +1150,7 @@
 
 ## self-hosted 
 
+- [havenweb/haven](https://github.com/havenweb/haven) - Self-hostable private blogging
 - [andrii-kryvoviaz/slink](https://github.com/andrii-kryvoviaz/slink) - Self-hosted image hosting and sharing platform with private links, collections, S3/SMB storage, OIDC SSO and ShareX support.
 - [av/harbor](https://github.com/av/harbor) - Stop configuring your AI stack. Start using it. One command brings a complete pre-wired LLM stack with hundreds of services to explore.
 - [CaramelFur/Picsur](https://github.com/CaramelFur/Picsur) - An easy to use, selfhostable image sharing service like Imgur with built in converting
