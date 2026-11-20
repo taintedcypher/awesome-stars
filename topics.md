@@ -189,6 +189,7 @@
 
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.
+- [htdt/godogen](https://github.com/htdt/godogen) - Skills for Claude Code, Codex and Antigravity to build games, and anything else a game engine renders well
 
 ## agents 
 
@@ -303,7 +304,7 @@
 
 ## bootstrap 
 
-- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,000+ icons, dark mode, RTL.
+- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,500+ icons, dark mode, RTL.
 
 ## bot 
 
@@ -346,7 +347,7 @@
 
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [pingdotgg/t3code](https://github.com/pingdotgg/t3code) - The best way to control Claude Code, Codex and more from any computer or phone
-- [htdt/godogen](https://github.com/htdt/godogen) - Autonomous game development with Claude Code and Codex
+- [htdt/godogen](https://github.com/htdt/godogen) - Skills for Claude Code, Codex and Antigravity to build games, and anything else a game engine renders well
 - [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - Powerful AI Client
 - [LibreChat-AI/LibreChat](https://github.com/LibreChat-AI/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
@@ -357,7 +358,7 @@
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [pingdotgg/t3code](https://github.com/pingdotgg/t3code) - The best way to control Claude Code, Codex and more from any computer or phone
 - [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
-- [htdt/godogen](https://github.com/htdt/godogen) - Autonomous game development with Claude Code and Codex
+- [htdt/godogen](https://github.com/htdt/godogen) - Skills for Claude Code, Codex and Antigravity to build games, and anything else a game engine renders well
 - [joemckenney/wake](https://github.com/joemckenney/wake) - Wake records your terminal sessions so Claude Code can see what you've been doing.
 - [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - Powerful AI Client
 
@@ -383,7 +384,7 @@
 ## cms 
 
 - [GetPublii/Publii](https://github.com/GetPublii/Publii) - The most intuitive Static Site CMS designed for SEO-optimized and privacy-focused websites.
-- [decaporg/decap-cms](https://github.com/decaporg/decap-cms) - A Git-based CMS for Static Site Generators
+- [decaporg/decap-cms](https://github.com/decaporg/decap-cms) - A Git-based CMS for static site generators (formerly Netlify CMS)
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 
 ## code 
@@ -416,7 +417,7 @@
 ## css 
 
 - [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 6500 free MIT-licensed high-quality SVG icons for you to use in your web projects.
-- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,000+ icons, dark mode, RTL.
+- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,500+ icons, dark mode, RTL.
 - [jstrieb/urlpages](https://github.com/jstrieb/urlpages) - Create and view web pages stored entirely in the URL
 - [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
 - [Sinacs/Joplin.Plugin.ReMoods.Theme](https://github.com/Sinacs/Joplin.Plugin.ReMoods.Theme) - [NO LONGER MAINTAINED]
@@ -537,7 +538,7 @@
 
 ## game-development 
 
-- [htdt/godogen](https://github.com/htdt/godogen) - Autonomous game development with Claude Code and Codex
+- [htdt/godogen](https://github.com/htdt/godogen) - Skills for Claude Code, Codex and Antigravity to build games, and anything else a game engine renders well
 - [Hugo-Dz/spritefusion-pixel-snapper](https://github.com/Hugo-Dz/spritefusion-pixel-snapper) - A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent pixel art generated by AI.
 - [stechyo/godot-steam-audio](https://github.com/stechyo/godot-steam-audio) - Immersive spatial audio extension for Godot, using Valve's SteamAudio
 
@@ -561,7 +562,7 @@
 
 ## godot 
 
-- [htdt/godogen](https://github.com/htdt/godogen) - Autonomous game development with Claude Code and Codex
+- [htdt/godogen](https://github.com/htdt/godogen) - Skills for Claude Code, Codex and Antigravity to build games, and anything else a game engine renders well
 - [stechyo/godot-steam-audio](https://github.com/stechyo/godot-steam-audio) - Immersive spatial audio extension for Godot, using Valve's SteamAudio
 
 ## golang 
@@ -615,13 +616,13 @@
 
 ## html 
 
-- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,000+ icons, dark mode, RTL.
+- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,500+ icons, dark mode, RTL.
 - [jstrieb/urlpages](https://github.com/jstrieb/urlpages) - Create and view web pages stored entirely in the URL
 - [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
 
 ## html5 
 
-- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,000+ icons, dark mode, RTL.
+- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,500+ icons, dark mode, RTL.
 
 ## http 
 
@@ -662,12 +663,12 @@
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 - [Shopify/draggable](https://github.com/Shopify/draggable) - The JavaScript Drag & Drop library your grandparents warned you about.
 - [hack-chat/main](https://github.com/hack-chat/main) - a minimal, distraction-free chat application
-- [decaporg/decap-cms](https://github.com/decaporg/decap-cms) - A Git-based CMS for Static Site Generators
+- [decaporg/decap-cms](https://github.com/decaporg/decap-cms) - A Git-based CMS for static site generators (formerly Netlify CMS)
 - [thsmi/sieve](https://github.com/thsmi/sieve) - Sieve Script Editor
 
 ## jekyll 
 
-- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,000+ icons, dark mode, RTL.
+- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,500+ icons, dark mode, RTL.
 
 ## jupyter-notebook 
 
@@ -1086,7 +1087,7 @@
 - [usememos/memos](https://github.com/usememos/memos) - Memos is an open-source, self-hosted note-taking app that brings your everyday thoughts together in a personal timeline. Your data stays yours, and you choose what to keep private or share.
 - [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 6500 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [recurser/string-is](https://github.com/recurser/string-is) - An open-source, privacy-friendly online string toolkit for developers.
-- [decaporg/decap-cms](https://github.com/decaporg/decap-cms) - A Git-based CMS for Static Site Generators
+- [decaporg/decap-cms](https://github.com/decaporg/decap-cms) - A Git-based CMS for static site generators (formerly Netlify CMS)
 - [EyuCoder/chatgpt-pro](https://github.com/EyuCoder/chatgpt-pro) - ChatGPT-Pro is an advanced application that combines the power of ChatGPT and DALL.E.
 
 ## react-native 
@@ -1127,7 +1128,7 @@
 
 ## sass 
 
-- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,000+ icons, dark mode, RTL.
+- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,500+ icons, dark mode, RTL.
 
 ## security 
 
@@ -1180,7 +1181,7 @@
 
 ## skills 
 
-- [htdt/godogen](https://github.com/htdt/godogen) - Autonomous game development with Claude Code and Codex
+- [htdt/godogen](https://github.com/htdt/godogen) - Skills for Claude Code, Codex and Antigravity to build games, and anything else a game engine renders well
 
 ## sqlite 
 
@@ -1202,7 +1203,7 @@
 ## static-site-generator 
 
 - [GetPublii/Publii](https://github.com/GetPublii/Publii) - The most intuitive Static Site CMS designed for SEO-optimized and privacy-focused websites.
-- [decaporg/decap-cms](https://github.com/decaporg/decap-cms) - A Git-based CMS for Static Site Generators
+- [decaporg/decap-cms](https://github.com/decaporg/decap-cms) - A Git-based CMS for static site generators (formerly Netlify CMS)
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 
 ## svelte 
