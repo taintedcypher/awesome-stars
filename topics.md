@@ -739,6 +739,7 @@
 
 ## macos 
 
+- [NurettinSelim/obs-icecast](https://github.com/NurettinSelim/obs-icecast) - Audio-only MP3 streaming output for OBS Studio — Icecast/Liquidsoap and SHOUTcast v1, with a native Radio.co dock
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - Invoke is a leading creative engine that uses image and video generation models to empower professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven techno
 - [Swordfish90/cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display...
 - [GetPublii/Publii](https://github.com/GetPublii/Publii) - The most intuitive Static Site CMS designed for SEO-optimized and privacy-focused websites.
