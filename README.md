@@ -65,6 +65,7 @@
 
 ## C++ 
 
+- [NurettinSelim/obs-icecast](https://github.com/NurettinSelim/obs-icecast) - Audio-only MP3 streaming output for OBS Studio — Icecast/Liquidsoap and SHOUTcast v1, with a native Radio.co dock
 - [browsermt/bergamot-translator](https://github.com/browsermt/bergamot-translator) - Cross platform C++ library focusing on optimized machine translation on the consumer-grade device.
 - [hluk/CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features
 - [OHF-Voice/piper1-gpl](https://github.com/OHF-Voice/piper1-gpl) - Fast and local neural text-to-speech engine
