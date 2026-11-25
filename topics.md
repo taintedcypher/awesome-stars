@@ -258,6 +258,7 @@
 
 ## automation 
 
+- [johncrash64/radio-dj](https://github.com/johncrash64/radio-dj) - 24/7 AI-DJ radio in Go. Persistent ffmpeg→Icecast with live ducking, LLM banter, BYOK, editable skills. ~50MB RAM.
 - [av/harbor](https://github.com/av/harbor) - Stop configuring your AI stack. Start using it. One command brings a complete pre-wired LLM stack with hundreds of services to explore.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [FujiwaraChoki/MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter) - Automate Creation of YouTube Shorts using MoviePy.
@@ -553,6 +554,7 @@
 
 ## go 
 
+- [johncrash64/radio-dj](https://github.com/johncrash64/radio-dj) - 24/7 AI-DJ radio in Go. Persistent ffmpeg→Icecast with live ducking, LLM banter, BYOK, editable skills. ~50MB RAM.
 - [usememos/memos](https://github.com/usememos/memos) - Memos is an open-source, self-hosted note-taking app that brings your everyday thoughts together in a personal timeline. Your data stays yours, and you choose what to keep private or share.
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [php/frankenphp](https://github.com/php/frankenphp) - 🧟 The modern PHP app server
@@ -706,6 +708,7 @@
 
 ## llm 
 
+- [johncrash64/radio-dj](https://github.com/johncrash64/radio-dj) - 24/7 AI-DJ radio in Go. Persistent ffmpeg→Icecast with live ducking, LLM banter, BYOK, editable skills. ~50MB RAM.
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [av/harbor](https://github.com/av/harbor) - Stop configuring your AI stack. Start using it. One command brings a complete pre-wired LLM stack with hundreds of services to explore.
@@ -788,6 +791,7 @@
 
 ## music 
 
+- [johncrash64/radio-dj](https://github.com/johncrash64/radio-dj) - 24/7 AI-DJ radio in Go. Persistent ffmpeg→Icecast with live ducking, LLM banter, BYOK, editable skills. ~50MB RAM.
 - [mixxxdj/mixxx](https://github.com/mixxxdj/mixxx) - Mixxx is Free DJ software that gives you everything you need to perform live mixes.
 - [vixalien/muzika](https://github.com/vixalien/muzika) - Elegant music streaming app
 
@@ -1153,6 +1157,7 @@
 
 ## self-hosted 
 
+- [johncrash64/radio-dj](https://github.com/johncrash64/radio-dj) - 24/7 AI-DJ radio in Go. Persistent ffmpeg→Icecast with live ducking, LLM banter, BYOK, editable skills. ~50MB RAM.
 - [havenweb/haven](https://github.com/havenweb/haven) - Self-hostable private blogging
 - [andrii-kryvoviaz/slink](https://github.com/andrii-kryvoviaz/slink) - Self-hosted image hosting and sharing platform with private links, collections, S3/SMB storage, OIDC SSO and ShareX support.
 - [av/harbor](https://github.com/av/harbor) - Stop configuring your AI stack. Start using it. One command brings a complete pre-wired LLM stack with hundreds of services to explore.
