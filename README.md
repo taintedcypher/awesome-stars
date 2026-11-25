@@ -120,6 +120,7 @@
 
 ## Go 
 
+- [johncrash64/radio-dj](https://github.com/johncrash64/radio-dj) - 24/7 AI-DJ radio in Go. Persistent ffmpeg→Icecast with live ducking, LLM banter, BYOK, editable skills. ~50MB RAM.
 - [EmissarySocial/emissary](https://github.com/EmissarySocial/emissary) - The Social Web Toolkit
 - [aptible/supercronic](https://github.com/aptible/supercronic) - Cron for containers
 - [usememos/memos](https://github.com/usememos/memos) - Memos is an open-source, self-hosted note-taking app that brings your everyday thoughts together in a personal timeline. Your data stays yours, and you choose what to keep private or share.
